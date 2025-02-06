@@ -5,76 +5,89 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Company Map</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        /* Base Styles */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body { height: 100%; overflow: hidden; }
 
-        html, body {
-            height: 100%;
-            overflow: hidden;
-        }
-
+        /* Layout */
         .container {
             display: flex;
-            height: 100vh;
+            height: calc(100vh - 60px);
             width: 100vw;
+            margin-top: 60px;
+            position: relative;
         }
 
+        /* Map Styles */
         #map {
-            flex: 1;
+            position: absolute;
+            left: 0;
+            right: 300px;
             height: 100%;
         }
 
+        .leaflet-control-container {
+            position: relative;
+            z-index: 1000;
+        }
+
+        /* Filter Bar */
+        .filter-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            padding: 10px 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            z-index: 1002;
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .filter-group {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            min-width: 150px;
+        }
+
+        .filter-group:first-child { flex: 2; }
+
+        .filter-group select, 
+        .filter-group input {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #eee;
+            border-radius: 4px;
+        }
+
+        .clear-filters {
+            background: #e74c3c;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+        .clear-filters:hover { background: #c0392b; }
+
+        /* Sidebar */
         .sidebar {
+            position: absolute;
+            right: 0;
             width: 300px;
             background-color: #f8f9fa;
             height: 100%;
             overflow-y: auto;
             padding: 20px;
             box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
-        }
-
-        .company-card {
-            background: white;
-            border-radius: 8px;
-            padding: 15px;
-            margin-bottom: 15px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            cursor: pointer;
-            transition: transform 0.2s;
-        }
-
-        .company-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-
-        .company-name {
-            font-weight: bold;
-            font-size: 16px;
-            margin-bottom: 5px;
-            color: #2c3e50;
-        }
-
-        .company-details {
-            font-size: 14px;
-            color: #7f8c8d;
-        }
-
-        .company-details p {
-            margin: 5px 0;
-        }
-
-        .company-website {
-            color: #3498db;
-            text-decoration: none;
-        }
-
-        .company-website:hover {
-            text-decoration: underline;
+            z-index: 1001;
         }
 
         .sidebar-title {
@@ -84,9 +97,141 @@
             color: #2c3e50;
             text-align: center;
         }
+
+        /* Company Card */
+        .company-card {
+            background: white;
+            border-radius: 0;
+            padding: 15px;
+            margin-bottom: 8px;
+            box-shadow: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border-left: 4px solid transparent;
+        }
+
+        .company-card:hover {
+            border-left: 4px solid #3498db;
+            background-color: #f8f9fa;
+        }
+
+        .company-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .company-name {
+            font-weight: bold;
+            font-size: 16px;
+            color: #2c3e50;
+        }
+
+        .company-location {
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+
+        .company-details {
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+
+        .company-actions {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 8px;
+        }
+
+        /* Work Fields */
+        .work-fields-dropdown {
+            position: relative;
+            display: block;
+            margin-top: 8px;
+        }
+
+        .work-fields-content {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: white;
+            min-width: 200px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 0;
+            z-index: 1003;
+            border: 1px solid #eee;
+        }
+
+        .work-fields-dropdown:hover .work-fields-content { display: block; }
+
+        .work-fields-trigger {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 12px;
+            background-color: #f8f9fa;
+            border: 1px solid #eee;
+            color: #2c3e50;
+            cursor: pointer;
+            flex: 1;
+            text-align: left;
+        }
+
+        .work-fields-trigger:hover { background-color: #eee; }
+
+        .work-field-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            color: #2c3e50;
+            border-bottom: 1px solid #eee;
+        }
+
+        .work-field-item:last-child { border-bottom: none; }
+
+        /* Links */
+        .company-website {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 8px 12px;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border: none;
+            width: auto;
+        }
+
+        .company-website:hover { background-color: #2980b9; }
+        .company-website i { font-size: 1.2em; }
     </style>
 </head>
 <body>
+    <!-- Filter Bar -->
+    <div class="filter-bar">
+        <div class="filter-group">
+            <input type="text" id="search-input" placeholder="Search companies...">
+        </div>
+        <div class="filter-group">
+            <select id="field-filter">
+                <option value="">All Fields</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <select id="location-filter">
+                <option value="">All Locations</option>
+            </select>
+        </div>
+        <button class="clear-filters" onclick="clearFilters()">
+            <i class="fas fa-times"></i> Clear Filters
+        </button>
+    </div>
+
+    <!-- Main Container -->
     <div class="container">
         <div id="map"></div>
         <div class="sidebar">
@@ -99,62 +244,152 @@
     <script>
         // Initialize map
         const map = L.map('map').setView([39.8283, -98.5795], 4);
-
-        // Add OpenStreetMap tiles
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors'
         }).addTo(map);
 
         // Store markers for reference
         const markers = {};
+        let markersLayer = L.layerGroup().addTo(map);
 
-        // Fetch and display company markers
-        fetch('/api/companies')
+        // Updated fetch path to use static file
+        fetch('../static/companies.json')
             .then(response => response.json())
             .then(data => {
                 const companyList = document.getElementById('company-list');
+                const fieldFilter = document.getElementById('field-filter');
+                const locationFilter = document.getElementById('location-filter');
+                const searchInput = document.getElementById('search-input');
+                const fields = new Set();
+                const locations = new Set();
 
+                // Populate filters
                 data.companies.forEach(company => {
-                    // Create marker
-                    const marker = L.marker(company.coordinates).addTo(map);
-                    markers[company.name] = marker;
+                    company.workField.forEach(field => fields.add(field));
+                    locations.add(company.location);
+                });
 
-                    // Create popup content
-                    const popupContent = `
+                fields.forEach(field => {
+                    fieldFilter.add(new Option(field, field));
+                });
+
+                locations.forEach(location => {
+                    locationFilter.add(new Option(location, location));
+                });
+
+                function filterCompanies() {
+                    const selectedField = fieldFilter.value;
+                    const selectedLocation = locationFilter.value;
+                    const searchTerm = searchInput.value.toLowerCase();
+
+                    // Clear existing markers and list
+                    markersLayer.clearLayers();
+                    companyList.innerHTML = '';
+
+                    const filteredCompanies = data.companies.filter(company => {
+                        const fieldMatch = !selectedField || company.workField.includes(selectedField);
+                        const locationMatch = !selectedLocation || company.location === selectedLocation;
+                        const searchMatch = !searchTerm || 
+                            company.name.toLowerCase().includes(searchTerm) ||
+                            company.workField.some(field => field.toLowerCase().includes(searchTerm));
+                        return fieldMatch && locationMatch && searchMatch;
+                    });
+
+                    filteredCompanies.forEach(company => {
+                        const marker = L.marker(company.coordinates);
+                        markersLayer.addLayer(marker);
+
+                        // Create and bind popup
+                        marker.bindPopup(createPopupContent(company));
+
+                        // Create sidebar card
+                        const card = createCompanyCard(company, marker);
+                        companyList.appendChild(card);
+                    });
+
+                    // Adjust map view if we have filtered companies
+                    if (filteredCompanies.length > 0) {
+                        const bounds = L.latLngBounds(filteredCompanies.map(c => c.coordinates));
+                        map.fitBounds(bounds);
+                    }
+                }
+
+                function createPopupContent(company) {
+                    return `
                         <div class="company-info">
                             <div class="company-name">${company.name}</div>
                             <div class="company-details">
-                                <p><strong>Location:</strong> ${company.location}</p>
-                                <p><strong>Field:</strong> ${company.workField}</p>
-                                <p><strong>Website:</strong> <a href="${company.website}" target="_blank">${company.website}</a></p>
+                                <p><strong><i class="fas fa-location-dot"></i> Location:</strong> ${company.location}</p>
+                                <div class="work-fields-dropdown">
+                                    <p><strong><i class="fas fa-tags"></i> Fields:</strong> ${company.workField.join(', ')}</p>
+                                </div>
+                                <p><strong><i class="fas fa-globe"></i> Website:</strong> 
+                                    <a href="${company.website}" target="_blank">${company.website}</a>
+                                </p>
+                            </div>
+                        </div>
+                    `;
+                }
+
+                function createCompanyCard(company, marker) {
+                    const card = document.createElement('div');
+                    card.className = 'company-card';
+                    card.innerHTML = `
+                        <div class="company-header">
+                            <div class="company-name">${company.name}</div>
+                            <div class="company-location">${company.location}</div>
+                        </div>
+                        <div class="company-details">
+                            <div class="company-actions">
+                                <div class="work-fields-dropdown">
+                                    <button class="work-fields-trigger">
+                                        <i class="fas fa-tags"></i>
+                                        ${company.workField.length} Fields
+                                    </button>
+                                    <div class="work-fields-content">
+                                        ${company.workField.map(field => `
+                                            <div class="work-field-item">
+                                                <i class="fas fa-tag"></i>
+                                                ${field}
+                                            </div>
+                                        `).join('')}
+                                    </div>
+                                </div>
+                                <a href="${company.website}" target="_blank" class="company-website" title="Visit Website">
+                                    <i class="fas fa-external-link-alt"></i>
+                                </a>
                             </div>
                         </div>
                     `;
 
-                    marker.bindPopup(popupContent);
-
-                    // Create sidebar card
-                    const card = document.createElement('div');
-                    card.className = 'company-card';
-                    card.innerHTML = `
-                        <div class="company-name">${company.name}</div>
-                        <div class="company-details">
-                            <p>${company.location}</p>
-                            <p>${company.workField}</p>
-                            <a href="${company.website}" target="_blank" class="company-website">Visit Website</a>
-                        </div>
-                    `;
-
-                    // Add click event to center map on company
                     card.addEventListener('click', () => {
                         map.setView(company.coordinates, 13);
                         marker.openPopup();
                     });
 
-                    companyList.appendChild(card);
-                });
+                    return card;
+                }
+
+                // Event listeners
+                fieldFilter.addEventListener('change', filterCompanies);
+                locationFilter.addEventListener('change', filterCompanies);
+                searchInput.addEventListener('input', filterCompanies);
+
+                window.clearFilters = function() {
+                    fieldFilter.value = '';
+                    locationFilter.value = '';
+                    searchInput.value = '';
+                    filterCompanies();
+                };
+
+                // Initial display
+                filterCompanies();
             })
-            .catch(error => console.error('Error loading companies:', error));
+            .catch(error => {
+                console.error('Error loading companies:', error);
+                document.getElementById('company-list').innerHTML = 
+                    `<div class="error">Error loading companies: ${error.message}</div>`;
+            });
     </script>
 </body>
 </html>

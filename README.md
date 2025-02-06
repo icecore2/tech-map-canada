@@ -2,6 +2,10 @@
 
 An interactive web application built with Flask and Leaflet.js that displays company locations on a map with detailed information. The application features a full-screen map view with a scrollable sidebar containing company listings.
 
+## Demo video
+
+![Demo video](example.mp4)
+
 ## Screenshot
 
 ![Screenshot](image.png)

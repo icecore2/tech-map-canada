@@ -1,0 +1,76 @@
+{
+    "companies": [        
+        {
+            "name": "Royal Bank of Canada",
+            "location": "Toronto, Canada",
+            "coordinates": [43.6532, -79.3832],
+            "website": "https://rbc.com",
+            "linkedIn": "http://www.linkedin.com/company/rbc",
+            "workField": ["Banking", "Financial Services"]
+        },
+        {
+            "name": "Viral Nation",
+            "location": "Toronto, Canada",
+            "coordinates": [43.6547, -79.3845],
+            "website": "https://viralnation.com",
+            "linkedIn": "https://www.linkedin.com/company/viralnationinc/",
+            "workField": ["Advertising Services", "Digital Marketing"]
+        },
+        {
+            "name": "Infocodec Solutions",
+            "location": "Toronto, Canada",
+            "coordinates": [43.6422, -79.3832],
+            "website": "https://infocodec.com",
+            "linkedIn": "http://www.linkedin.com/company/infocodec-solutions",
+            "workField": ["IT Services", "IT Consulting"]
+        },
+        {
+            "name": "Bank of Canada",
+            "location": "Ottawa, Canada",
+            "coordinates": [45.4215, -75.6972],
+            "website": "https://bankofcanada.ca",
+            "linkedIn": "https://www.linkedin.com/company/bank-of-canada/",
+            "workField": ["Banking", "Financial Services"]
+        },
+        {
+            "name": "Nurun",
+            "location": "Montreal, Canada",
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://nurun.com",
+            "linkedIn": "http://www.linkedin.com/company/nurun",
+            "workField": ["IT Services", "IT Consulting"]
+        },
+        {
+            "name": "Staples Canada",
+            "location": "Richmond Hill, Canada",
+            "coordinates": [43.8561, -79.3370],
+            "website": "https://staples.ca",
+            "linkedIn": "https://www.linkedin.com/company/staples-canada/",
+            "workField": ["Retail", "Office Supplies"]
+        },
+        {
+            "name": "Critical Mass",
+            "location": "Calgary, Canada",
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://criticalmass.com",
+            "linkedIn": "https://www.linkedin.com/company/critical-mass/",
+            "workField": ["Advertising Services", "Digital Marketing"]
+        },
+        {
+            "name": "DentistFind",
+            "location": "Toronto, Canada",
+            "coordinates": [43.6532, -79.3892],
+            "website": "https://dentistfind.com",
+            "linkedIn": "http://www.linkedin.com/company/dentistfind-com",
+            "workField": ["Healthcare", "Dental Services"]
+        },
+        {
+            "name": "Definity",
+            "location": "Waterloo, Canada",
+            "coordinates": [43.4643, -80.5204],
+            "website": "https://definityfinancial.com",
+            "linkedIn": "https://www.linkedin.com/company/definity-financial/",
+            "workField": ["Insurance", "Financial Services"]
+        }
+    ]
+}
