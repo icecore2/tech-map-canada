@@ -30,10 +30,12 @@ Watch the video [direct](https://github.com/icecore2/tech-map-canada/raw/main/ex
 
 ```
 company-map/
-├── app.py              # Flask application
-├── companies.json      # Company data
+├── app.py                  # Flask application
+├── requirements.txt        # Dependencies
+└── static/
+    └── companies.json      # Company data
 └── templates/
-    └── index.html      # Main application template
+    └── index.html          # Main application template
 ```
 
 ## Installation
