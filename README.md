@@ -13,11 +13,15 @@ Watch the video [direct](https://github.com/icecore2/tech-map-canada/raw/main/ex
 
 ## Features
 
-- Full-screen interactive map with company location markers
-- Scrollable sidebar with company cards
-- Company information popups on marker click
-- Interactive company cards that center the map on click
-- Responsive design that works on all screen sizes
+- [x] Full-screen interactive map with company location markers
+- [x] Scrollable sidebar with company cards
+- [x] Company information popups on marker click
+- [x] Interactive company cards that center the map on click
+- [x] Responsive design that works on all screen sizes
+- [x] Search bar on top of the page
+- [x] Work field and location filters
+- [ ] Add Linkedin link in the Company card
+
 
 ## Tech Stack
 
