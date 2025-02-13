@@ -85,6 +85,7 @@ Add company data to `companies.json` using the following format:
             "location": "City, State",
             "coordinates": [latitude, longitude],
             "website": "https://company-website.com",
+            "linkedIn": "https://www.linkedin.com/company/company_name/",
             "workField": ["Industry Field"]
         }
     ]
@@ -98,6 +99,7 @@ Add company data to `companies.json` using the following format:
 |location|str|
 |coordinates|list[int,int]|
 |website|str|
+|linkedIn|str|
 |workField|list[str]|
 
 
