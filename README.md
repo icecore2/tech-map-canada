@@ -121,7 +121,8 @@ Example company entry:
     "location": "San Francisco, CA",
     "coordinates": [37.7749, -122.4194],
     "website": "https://techcorp.com",
-    "workField": "Software Development"
+    "linkedIn": "https://www.linkedin.com/company/techcorp/",
+    "workField": ["Software Development"]
 }
 ```
 
