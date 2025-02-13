@@ -85,11 +85,22 @@ Add company data to `companies.json` using the following format:
             "location": "City, State",
             "coordinates": [latitude, longitude],
             "website": "https://company-website.com",
-            "workField": "Industry Field"
+            "workField": ["Industry Field"]
         }
     ]
 }
 ```
+## Data types in structure
+
+|key|type|
+|---|----|
+|name|str|
+|location|str|
+|coordinates|list[int,int]|
+|website|str|
+|workField|list[str]|
+
+
 
 ## Contributing
 
