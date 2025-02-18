@@ -114,12 +114,32 @@ fetch('../static/companies.json')
                     ` : ' '}
                 </div>
             `;
-
+        
             card.addEventListener('click', () => {
                 map.setView(company.coordinates, 13);
                 marker.openPopup();
             });
-
+        
+            card.addEventListener('mouseover', () => {
+                marker.setIcon(L.icon({
+                    iconUrl: 'static/images/red-icon.png',
+                    iconSize: [25, 41],
+                    iconAnchor: [12, 41],
+                    popupAnchor: [1, -34],
+                    shadowSize: [41, 41]
+                }));
+            });
+        
+            card.addEventListener('mouseout', () => {
+                marker.setIcon(L.icon({
+                    iconUrl: 'static/images/default-icon.png',
+                    iconSize: [25, 41],
+                    iconAnchor: [12, 41],
+                    popupAnchor: [1, -34],
+                    shadowSize: [41, 41]
+                }));
+            });
+        
             return card;
         }
 
