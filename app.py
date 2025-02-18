@@ -1,3 +1,5 @@
+import os
+
 from flask import Flask, render_template, jsonify
 import json
 
@@ -21,4 +23,7 @@ def get_companies():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    is_debug = os.getenv('DEBUG', default=False)
+    port = os.getenv('PORT', default=5000)
+
+    app.run(host='0.0.0.0', debug=is_debug, port=port)
