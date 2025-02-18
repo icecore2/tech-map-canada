@@ -20,8 +20,8 @@ Watch the video [direct](https://github.com/icecore2/tech-map-canada/raw/main/ex
 - [x] Responsive design that works on all screen sizes
 - [x] Search bar on top of the page
 - [x] Work field and location filters
-- [ ] Add Linkedin link in the Company card
-
+- [x] Add Linkedin link in the Company card
+- [x] Add Mouse over a company card changes color
 
 ## Tech Stack
 
@@ -37,7 +37,10 @@ company-map/
 ├── app.py                  # Flask application
 ├── requirements.txt        # Dependencies
 └── static/
-    └── companies.json      # Company data
+    └── images/             # Static images    
+    └── companies.json      # Companies data
+    └── script.js
+    └── styles.css
 └── templates/
     └── index.html          # Main application template
 ```
