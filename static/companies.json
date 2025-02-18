@@ -1,7 +1,7 @@
 {
     "sources": [
-        "CanadianTech": "https://github.com/kmather73/CanadianTech/tree/master"
-    ]
+        {"CanadianTech": "https://github.com/kmather73/CanadianTech/tree/master"}
+    ],
     "companies": [        
         {
             "name": "Royal Bank of Canada",
