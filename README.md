@@ -4,7 +4,7 @@ An interactive web application built with Flask and Leaflet.js that displays com
 
 ## Demo video
 
-Watch the video [direct](https://github.com/icecore2/tech-map-canada/raw/main/example.mp4) OR [Youtube](https://www.youtube.com/embed/Z3dX_SNzG2c)
+Watch the video [direct](https://github.com/icecore2/tech-map-canada/raw/main/example.mp4) OR [Youtube](https://youtu.be/lfpxVLm_UzA)
 
 
 ## Screenshot
