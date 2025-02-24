@@ -1,45 +1,78 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Company Map</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Companies Map</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
     <!-- Filter Bar -->
     <div class="filter-bar">
-        <div class="filter-group">
-            <input type="text" id="search-input" placeholder="Search companies...">
-        </div>
-        <div class="filter-group">
-            <select id="field-filter">
-                <option value="">All Fields</option>
-            </select>
-        </div>
-        <div class="filter-group">
-            <select id="location-filter">
-                <option value="">All Locations</option>
-            </select>
-        </div>
-        <button class="clear-filters" onclick="clearFilters()">
-            <i class="fas fa-times"></i> Clear Filters
-        </button>
+      <div class="filter-group">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search companies..."
+        />
+      </div>
+      <div class="filter-group">
+        <select id="field-filter">
+          <option value="">All Fields</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <select id="location-filter">
+          <option value="">All Locations</option>
+        </select>
+      </div>
+      <button class="clear-filters" onclick="clearFilters()">
+        <i class="fas fa-times"></i> Clear Filters
+      </button>
     </div>
 
     <!-- Main Container -->
     <div class="container">
-        <div id="map"></div>
-        <div class="resizer" id="resizer"></div>
-        <div class="sidebar">
-            <h2 class="sidebar-title">Companies</h2>
-            <div id="company-list"></div>
+      <div id="map"></div>
+      <div class="resizer" id="resizer"></div>
+      <div class="sidebar">
+        <div class="companies-title">
+          Companies list
+          <div class="company-counter">
+            <span id="company-count">0</span>
+          </div>
         </div>
+        <div id="company-list"></div>
+      </div>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script src="{{ url_for('static', filename='script.js') }}"></script>
-</body>
+  </body>
 </html>
+
+<footer class="footer">
+  <div class="footer-section">
+    <p>© 2024 Tech Map Canada</p>
+  </div>
+  <div class="footer-section">
+    <p>
+      Made with ❤️ by
+      <a href="https://github.com/icecore2" target="_blank">icecore2</a>
+    </p>
+  </div>
+  <div class="footer-section">
+    <p>Data updated: January 2024</p>
+  </div>
+</footer>

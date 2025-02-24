@@ -38,7 +38,6 @@ fetch('../static/companies.json')
             const selectedLocation = locationFilter.value;
             const searchTerm = searchInput.value.toLowerCase();
 
-            // Clear existing markers and list
             markersLayer.clearLayers();
             companyList.innerHTML = '';
 
@@ -51,19 +50,19 @@ fetch('../static/companies.json')
                 return fieldMatch && locationMatch && searchMatch;
             });
 
+            // Update the companies counter
+            updateCompanyCount(filteredCompanies.length);
+
             filteredCompanies.forEach(company => {
                 const marker = L.marker(company.coordinates);
                 markersLayer.addLayer(marker);
-
-                // Create and bind popup
                 marker.bindPopup(createPopupContent(company));
 
-                // Create sidebar card
+                // Sidebar card
                 const card = createCompanyCard(company, marker);
                 companyList.appendChild(card);
             });
 
-            // Adjust map view if we have filtered companies
             if (filteredCompanies.length > 0) {
                 const bounds = L.latLngBounds(filteredCompanies.map(c => c.coordinates));
                 map.fitBounds(bounds);
@@ -92,6 +91,7 @@ fetch('../static/companies.json')
                 </div>
             `;
         }
+        
 
         function createCompanyCard(company, marker) {
             const card = document.createElement('div');
@@ -147,7 +147,7 @@ fetch('../static/companies.json')
         fieldFilter.addEventListener('change', filterCompanies);
         locationFilter.addEventListener('change', filterCompanies);
         searchInput.addEventListener('input', filterCompanies);
-
+        
         window.clearFilters = function() {
             fieldFilter.value = '';
             locationFilter.value = '';
@@ -169,6 +169,7 @@ const resizer = document.getElementById('resizer');
 const sidebar = document.querySelector('.sidebar');
 let isResizing = false;
 
+
 resizer.addEventListener('mousedown', (e) => {
     isResizing = true;
     document.body.style.cursor = 'ew-resize';
@@ -186,3 +187,9 @@ document.addEventListener('mouseup', () => {
     isResizing = false;
     document.body.style.cursor = 'default';
 });
+
+function updateCompanyCount(count) {
+    document.getElementById('company-count').textContent = count;
+}
+
+updateCompanyCount(filteredCompanies.length);
