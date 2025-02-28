@@ -4,7 +4,7 @@ An interactive web application built with Flask and Leaflet.js that displays com
 
 ## Demo video
 
-Watch the video [direct](https://github.com/icecore2/tech-map-canada/raw/main/example.mp4) OR [Youtube](https://youtu.be/lfpxVLm_UzA)
+Watch the video [**Direct**](https://github.com/icecore2/tech-map-canada/raw/main/example.mp4) OR [**Youtube**](https://youtu.be/WOATlpXuUco).
 
 
 ## Screenshot
@@ -13,15 +13,16 @@ Watch the video [direct](https://github.com/icecore2/tech-map-canada/raw/main/ex
 
 ## Features
 
-- [x] Full-screen interactive map with company location markers
-- [x] Scrollable sidebar with company cards
-- [x] Company information popups on marker click
-- [x] Interactive company cards that center the map on click
-- [x] Responsive design that works on all screen sizes
-- [x] Search bar on top of the page
-- [x] Work field and location filters
-- [x] Add Linkedin link in the Company card
-- [x] Add Mouse over a company card changes color
+- [x] Full-screen interactive map with company location markers.
+- [x] Scrollable and resizable sidebar with company cards.
+- [x] Company information popups on marker click.
+- [x] Interactive company cards that zooming the company on the map when click.
+- [x] Responsive design that works on all screen sizes.
+- [x] Search bar on top of the page.
+- [x] Filtration options: Location, Work field.
+- [x] Work field clickable and sets the filter when clicked.
+- [x] Work field and location filters.
+- [x] Add Mouse over a company card changes color of the company pin.
 
 ## Tech Stack
 
@@ -33,16 +34,19 @@ Watch the video [direct](https://github.com/icecore2/tech-map-canada/raw/main/ex
 ## Project Structure
 
 ```
-company-map/
-├── app.py                  # Flask application
-├── requirements.txt        # Dependencies
-└── static/
-    └── images/             # Static images    
-    └── companies.json      # Companies data
-    └── script.js
-    └── styles.css
-└── templates/
-    └── index.html          # Main application template
+company-map/ 
+├── app.py                 # Flask application 
+├── requirements.txt       # Dependencies 
+└── static/ 
+   └── images/             # Static images 
+   └── companies.json      # Companies data 
+   └── script.js 
+   └── styles.css 
+└── templates/ 
+   └── index.html          # Main application template 
+└── tools/ 
+   └── duplicate_check.py  # Check duplicate companies. If duplicate found, it prints it. 
+   └── old_json_to_new.py  # Use legacy json structure and convert to new structure.
 ```
 
 ## Installation
@@ -61,7 +65,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install dependencies:
 ```bash
-pip install flask
+pip install -r requirements.txt
 ```
 
 ## Running the Application
@@ -82,28 +86,31 @@ Add company data to `companies.json` using the following format:
 
 ```json
 {
-    "companies": [
+    "Company Name": {
+      "description": "",
+      "links": {
+         "website": "https://company-website.com",
+         "linkedin": "https://www.linkedin.com/company/company_name/"
+      },
+      "locations": [
         {
-            "name": "Company Name",
-            "location": "City, State",
-            "coordinates": [latitude, longitude],
-            "website": "https://company-website.com",
-            "linkedIn": "https://www.linkedin.com/company/company_name/",
-            "workField": ["Industry Field"]
+          "City, State": [latitude, longitude]
         }
-    ]
+      ],
+      "workFields": ["Industry Field", "Industry Field 2"]
+    }
 }
 ```
 ## Data types in structure
 
-|key|type|
-|---|----|
-|name|str|
-|location|str|
-|coordinates|list[int,int]|
-|website|str|
-|linkedIn|str|
-|workField|list[str]|
+| Key         | Type          |
+|-------------|---------------|
+| name        | str           |
+| location    | str           |
+| coordinates | list[int,int] |
+| website     | str           |
+| linkedIn    | str           |
+| workField   | list[str]     |
 
 
 
@@ -120,12 +127,19 @@ Add company data to `companies.json` using the following format:
 Example company entry:
 ```json
 {
-    "name": "Tech Corp",
-    "location": "San Francisco, CA",
-    "coordinates": [37.7749, -122.4194],
-    "website": "https://techcorp.com",
-    "linkedIn": "https://www.linkedin.com/company/techcorp/",
-    "workField": ["Software Development"]
+    "Company Name": {
+      "description": "",
+      "links": {
+         "website": "https://company-website.com",
+         "linkedin": "https://www.linkedin.com/company/company_name/"
+      },
+      "locations": [
+        {
+          "City, State": [latitude,longitude]
+        }
+      ],
+      "workFields": ["Industry Field", "Industry Field 2"]
+    }
 }
 ```
 

@@ -1,0 +1,924 @@
+{
+    "companies": [        
+        {
+            "name": "Royal Bank of Canada",
+            "location": ["Toronto, Canada"],
+            "coordinates": [43.6532, -79.3832],
+            "website": "https://rbc.com",
+            "linkedIn": "http://www.linkedin.com/company/rbc",
+            "workField": ["Banking", "Financial Services"]
+        },
+        {
+            "name": "Viral Nation",
+            "location": ["Toronto, Canada"],
+            "coordinates": [43.6547, -79.3845],
+            "website": "https://viralnation.com",
+            "linkedIn": "https://www.linkedin.com/company/viralnationinc/",
+            "workField": ["Advertising Services", "Digital Marketing"]
+        },
+        {
+            "name": "Infocodec Solutions",
+            "location": ["Toronto, Canada"],
+            "coordinates": [43.6422, -79.3832],
+            "website": "https://infocodec.com",
+            "linkedIn": "http://www.linkedin.com/company/infocodec-solutions",
+            "workField": ["IT Services", "IT Consulting"]
+        },
+        {
+            "name": "Bank of Canada",
+            "location": ["Ottawa, Canada", "Ottawa, ON"],
+            "coordinates": [45.4215, -75.6972],
+            "website": "https://bankofcanada.ca",
+            "linkedIn": "https://www.linkedin.com/company/bank-of-canada/",
+            "workField": ["Banking", "Financial Services"]
+        },
+        {
+            "name": "Nurun",
+            "location": ["Montreal, Canada"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://nurun.com",
+            "linkedIn": "http://www.linkedin.com/company/nurun",
+            "workField": ["IT Services", "IT Consulting"]
+        },
+        {
+            "name": "Staples Canada",
+            "location": ["Richmond Hill, Canada"],
+            "coordinates": [43.8561, -79.3370],
+            "website": "https://staples.ca",
+            "linkedIn": "https://www.linkedin.com/company/staples-canada/",
+            "workField": ["Retail", "Office Supplies"]
+        },
+        {
+            "name": "Critical Mass",
+            "location": ["Calgary, Canada"],
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://criticalmass.com",
+            "linkedIn": "https://www.linkedin.com/company/critical-mass/",
+            "workField": ["Advertising Services", "Digital Marketing"]
+        },
+        {
+            "name": "DentistFind",
+            "location": ["Toronto, Canada"],
+            "coordinates": [43.6532, -79.3892],
+            "website": "https://dentistfind.com",
+            "linkedIn": "http://www.linkedin.com/company/dentistfind-com",
+            "workField": ["Healthcare", "Dental Services"]
+        },
+        {
+            "name": "Definity",
+            "location": ["Waterloo, Canada"],
+            "coordinates": [43.4643, -80.5204],
+            "website": "https://definityfinancial.com",
+            "linkedIn": "https://www.linkedin.com/company/definity-financial/",
+            "workField": ["Insurance", "Financial Services"]
+        },
+        {
+            "name": "Drop",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.earnwithdrop.com/pages/careers",
+            "linkedIn": "https://www.linkedin.com/company/drop-loyalty/",
+            "workField": ["Personalized Rewards", "Loyalty Programs", "Machine Learning"]
+        },
+        {
+            "name": "Bench",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://bench.co/",
+            "linkedIn": "https://www.linkedin.com/company/benchaccounting/",
+            "workField": ["Bookkeeping", "Accounting Services", "Financial Software"]
+        },
+        {
+            "name": "League",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://league.com/ca/join-league",
+            "linkedIn": "https://www.linkedin.com/company/leagueinc/",
+            "workField": ["Digital Health Platform", "Healthcare Software", "Insurance Technology", "Wellness"]
+        },
+        {
+            "name": "Thalmic Labs",
+            "location": ["Kitchener, ON"],
+            "coordinates": [43.4516, -80.4925],
+            "website": "https://www.thalmic.com/careers",
+            "linkedIn": "",
+            "workField": ["Wearable Technology", "Human-Computer Interaction", "Gesture Control Technology"]
+        },
+        {
+            "name": "Zoocasa",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.zoocasa.com/company/careers",
+            "linkedIn": "",
+            "workField": ["Real Estate Technology", "Property Search"]
+        },
+        {
+            "name": "Top Hat",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://tophat.com/work-with-us/",
+            "linkedIn": "",
+            "workField": ["Educational Technology", "Learning Platforms"]
+        },
+        {
+            "name": "Influitive",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://influitive.com/careers/",
+            "linkedIn": "",
+            "workField": ["Advocacy Marketing", "Customer Engagement"]
+        },
+        {
+            "name": "Eventbase",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.eventbase.com/",
+            "linkedIn": "",
+            "workField": ["Event Management Software", "Mobile Event Apps"]
+        },
+        {
+            "name": "360insights",
+            "location": ["Whitby, ON"],
+            "coordinates": [43.8971, -78.9429],
+            "website": "https://360insights.com/",
+            "linkedIn": "",
+            "workField": ["Channel Incentives Management", "Marketing Technology"]
+        },
+        {
+            "name": "Askuity",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.askuity.com/company/hiring/",
+            "linkedIn": "",
+            "workField": ["Retail Analytics", "Data Insights"]
+        },
+        {
+            "name": "Hopper",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://www.hopper.com/corp/jobs.html",
+            "linkedIn": "https://www.linkedin.com/company/hopper/",
+            "workField": ["Travel Technology", "AI-Powered Travel Booking"]
+        },
+        {
+            "name": "Vidyard",
+            "location": ["Kitchener, ON"],
+            "coordinates": [43.4516, -80.4925],
+            "website": "https://www.vidyard.com/",
+            "linkedIn": "https://www.linkedin.com/company/vidyard/",
+            "workField": ["Video Hosting", "Video Marketing", "Sales Enablement"]
+        },
+        {
+            "name": "eSentire",
+            "location": ["Cambridge, ON"],
+            "coordinates": [43.3616, -80.3144],
+            "website": "https://www.esentire.com/about-us/careers/",
+            "linkedIn": "https://www.linkedin.com/company/esentire/",
+            "workField": ["Cybersecurity", "Managed Detection and Response"]
+        },
+        {
+            "name": "Aeryon Labs",
+            "location": ["Waterloo, ON"],
+            "coordinates": [43.4643, -80.5204],
+            "website": "https://www.aeryon.com/careers",
+            "linkedIn": "",
+            "workField": ["Drone Technology", "Unmanned Aerial Systems"]
+        },
+        {
+            "name": "Hootsuite",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://hootsuite.com/",
+            "linkedIn": "",
+            "workField": ["Social Media Management", "Marketing Software"]
+        },
+        {
+            "name": "Plenty Of Fish",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.pof.com/careers.aspx?api=1",
+            "linkedIn": "https://www.linkedin.com/company/plentyoffish/",
+            "workField": ["Online Dating", "Social Networking"]
+        },
+        {
+            "name": "500px Inc.",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://about.500px.com/",
+            "linkedIn": "https://www.linkedin.com/company/500px/",
+            "workField": ["Photography", "Online Marketplace", "Content Sharing"]
+        },
+        {
+            "name": "Shopify",
+            "location": ["Ottawa, ON", "Toronto, ON", "Montreal, QC", "Waterloo, ON"],
+            "coordinates": [45.4215, -75.6972],
+            "website": "https://www.shopify.ca",
+            "linkedIn": "https://www.linkedin.com/company/shopify/",
+            "workField": ["E-Commerce Solutions", "Online Retail Platforms"]
+        },
+        {
+            "name": "BlackBerry",
+            "location": ["Waterloo, ON"],
+            "coordinates": [43.4643, -80.5204],
+            "website": "https://ca.blackberry.com/",
+            "linkedIn": "",
+            "workField": ["Cybersecurity", "Enterprise Software", "IoT Solutions"]
+        },
+        {
+            "name": "OpenText",
+            "location": ["Waterloo, ON"],
+            "coordinates": [43.4643, -80.5204],
+            "website": "https://www.opentext.com/",
+            "linkedIn": "",
+            "workField": ["Enterprise Information Management", "Software Development"]
+        },
+        {
+            "name": "CAE",
+            "location": ["Saint-Laurent, QC"],
+            "coordinates": [45.5002, -73.6659],
+            "website": "http://www.cae.com/careers/",
+            "linkedIn": "https://www.linkedin.com/company/cae/",
+            "workField": ["Simulation Technology", "Aviation Training", "Defense and Security"]
+        },
+        {
+            "name": "D&H",
+            "location": ["Mississauga, ON", "Toronto, ON"],
+            "coordinates": [43.5890, -79.6441],
+            "website": "http://www.dh.com/careers/life-dh",
+            "linkedIn": "",
+            "workField": ["IT Distribution", "Electronics Distribution"]
+        },
+        {
+            "name": "SMART Technologies",
+            "location": ["Calgary, AB"],
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://careers.smarttech.com/",
+            "linkedIn": "",
+            "workField": ["Educational Technology", "Interactive Whiteboards"]
+        },
+        {
+            "name": "iQmetrix",
+            "location": ["Vancouver, BC", "Regina, SK", "Toronto, ON", "Winnipeg, MB"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "http://www.iqmetrix.com/careers",
+            "linkedIn": "",
+            "workField": ["Retail Management Software", "Telecom Solutions"]
+        },
+        {
+            "name": "Kinaxis",
+            "location": ["Ottawa, ON"],
+            "coordinates": [45.4215, -75.6972],
+            "website": "http://www.kinaxis.com/en/about/kinaxis-careers/",
+            "linkedIn": "",
+            "workField": ["Supply Chain Management Software", "AI-Driven Planning"]
+        },
+        {
+            "name": "Maplesoft",
+            "location": ["Waterloo, ON"],
+            "coordinates": [43.4643, -80.5204],
+            "website": "http://www.maplesoftgroup.com/",
+            "linkedIn": "https://www.linkedin.com/company/maplesoft/",
+            "workField": ["Mathematical Software", "Engineering Solutions"]
+        },
+        {
+            "name": "D-Wave Systems",
+            "location": ["Burnaby, BC"],
+            "coordinates": [49.2488, -122.9805],
+            "website": "https://www.dwavesys.com/",
+            "linkedIn": "https://www.linkedin.com/company/d-wave-systems-inc-/",
+            "workField": ["Quantum Computing", "Quantum Software"]
+        },
+        {
+            "name": "1QBit",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "http://1qbit.com/",
+            "linkedIn": "https://www.linkedin.com/company/1qbit/",
+            "workField": ["Quantum Computing Software", "Advanced Analytics"]
+        },
+        {
+            "name": "Finn.ai",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.finn.ai/",
+            "linkedIn": "https://www.linkedin.com/company/finn-ai/",
+            "workField": ["AI-Powered Banking", "Conversational AI"]
+        },
+        {
+            "name": "Zoom.ai",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://zoom.ai/",
+            "linkedIn": "https://www.linkedin.com/company/zoom.ai/",
+            "workField": ["AI-Powered Productivity", "Workplace Automation"]
+        },
+        {
+            "name": "Wiivv",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://wiivv.com/",
+            "linkedIn": "https://www.linkedin.com/company/wiivv/",
+            "workField": ["3D-Printed Footwear", "Custom Orthotics"]
+        },
+        {
+            "name": "Nudge",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://nudge.ai/careers/#open-positions",
+            "linkedIn": "https://www.linkedin.com/company/nudge-ai/",
+            "workField": ["AI-Powered Sales Intelligence", "Relationship Intelligence"]
+        },
+        {
+            "name": "A Thinking Ape",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "http://www.athinkingape.com/",
+            "linkedIn": "https://www.linkedin.com/company/a-thinking-ape/",
+            "workField": ["Mobile Game Development", "Social Gaming"]
+        },
+        {
+            "name": "AdGear",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "http://adgear.com/",
+            "linkedIn": "https://www.linkedin.com/company/adgear-technologies-inc-/",
+            "workField": ["Digital Advertising Technology", "Programmatic Advertising"]
+        },
+        {
+            "name": "Anahita Tribe",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.getanahita.com/",
+            "linkedIn": "",
+            "workField": ["Social Networking Software", "Open Source Platforms"]
+        },
+        {
+            "name": "Analyze Re",
+            "location": ["Halifax, NS"],
+            "coordinates": [44.6488, -63.5752],
+            "website": "http://analyzere.com/",
+            "linkedIn": "https://www.linkedin.com/company/analyze-re/",
+            "workField": ["Insurance Analytics", "Risk Modeling"]
+        },
+        {
+            "name": "Algolux",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://algolux.com/",
+            "linkedIn": "https://www.linkedin.com/company/algolux/",
+            "workField": ["Computer Vision", "Autonomous Vehicles", "AI Imaging"]
+        },
+        {
+            "name": "Control",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.getcontrol.co/",
+            "linkedIn": "https://www.linkedin.com/company/control-payments/",
+            "workField": ["Mobile Payments", "Financial Technology"]
+        },
+        {
+            "name": "airG",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "http://corp.airg.com/",
+            "linkedIn": "https://www.linkedin.com/company/airg/",
+            "workField": ["Mobile Social Networking", "Mobile Entertainment"]
+        },
+        {
+            "name": "Ubisoft",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://www.ubisoft.com/en-US/careers/experience.aspx",
+            "linkedIn": "https://www.linkedin.com/company/ubisoft/",
+            "workField": ["Video Game Development", "Entertainment Software"]
+        },
+        {
+            "name": "BioWare",
+            "location": ["Edmonton, AB"],
+            "coordinates": [53.5461, -113.4938],
+            "website": "http://www.bioware.com/en/careers/",
+            "linkedIn": "https://www.linkedin.com/company/bioware/",
+            "workField": ["Video Game Development", "Role-Playing Games"]
+        },
+        {
+            "name": "Capcom Vancouver",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.capcomvancouver.com/",
+            "linkedIn": "",
+            "workField": ["Video Game Development", "Action Games"]
+        },
+        {
+            "name": "The Coalition",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "http://thecoalitionstudio.com/#Home",
+            "linkedIn": "",
+            "workField": ["Video Game Development", "Xbox Game Studios"]
+        },
+        {
+            "name": "Sony Pictures Imageworks",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "http://www.imageworks.com/jobs.php",
+            "linkedIn": "",
+            "workField": ["Visual Effects", "Animation"]
+        },
+        {
+            "name": "D2L",
+            "location": ["Kitchener, ON"],
+            "coordinates": [43.4516, -80.4925],
+            "website": "https://www.d2l.com/careers/",
+            "linkedIn": "https://www.linkedin.com/company/d2l/",
+            "workField": ["Educational Technology", "Learning Management Systems"]
+        },
+        {
+            "name": "IC Group LP",
+            "location": ["Winnipeg, MB"],
+            "coordinates": [49.8951, -97.1384],
+            "website": "https://icgrouplp.com",
+            "linkedIn": "https://www.linkedin.com/company/ic-group/",
+            "workField": ["Digital Marketing", "Promotional Contests"]
+        },
+        {
+            "name": "Thinkbox Software",
+            "location": ["Winnipeg, MB"],
+            "coordinates": [49.8951, -97.1384],
+            "website": "http://www.thinkboxsoftware.com/",
+            "linkedIn": "",
+            "workField": ["3D Animation Software", "Visual Effects Tools"]
+        },
+        {
+            "name": "Tipping Canoe",
+            "location": ["Winnipeg, MB"],
+            "coordinates": [49.8951, -97.1384],
+            "website": "http://www.tippingcanoe.com/",
+            "linkedIn": "",
+            "workField": ["Mobile App Development", "Web Development"]
+        },
+        {
+            "name": "FreshBooks",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.freshbooks.com/",
+            "linkedIn": "https://www.linkedin.com/company/freshbooks/",
+            "workField": ["Cloud Accounting", "Small Business Software"]
+        },
+        {
+            "name": "Square",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://squareup.com/ca/careers",
+            "linkedIn": "https://www.linkedin.com/company/square/",
+            "workField": ["Financial Technology", "Payment Processing", "Point-of-Sale Solutions"]
+        },
+        {
+            "name": "Kindred.ai",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.kindred.ai/",
+            "linkedIn": "https://www.linkedin.com/company/kindred-ai/",
+            "workField": ["Artificial Intelligence", "Robotics", "Machine Learning"]
+        },
+        {
+            "name": "PerfectMind",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "http://www.perfectmind.com",
+            "linkedIn": "",
+            "workField": ["Membership Management Software", "Cloud-Based Solutions"]
+        },
+        {
+            "name": "Hockeystick",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://hockeystick.co/",
+            "linkedIn": "",
+            "workField": ["Data Analytics", "Venture Capital Insights"]
+        },
+        {
+            "name": "Harmonic Fund Services",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "http://harmonicfundservices.com/careers/",
+            "linkedIn": "",
+            "workField": ["Financial Services", "Fund Administration"]
+        },
+        {
+            "name": "EA Vancouver",
+            "location": ["Burnaby, BC"],
+            "coordinates": [49.2488, -122.9805],
+            "website": "http://www2.ea.com/locations/vancouver",
+            "linkedIn": "https://www.linkedin.com/company/electronic-arts/",
+            "workField": ["Video Game Development", "Interactive Entertainment"]
+        },
+        {
+            "name": "SkipTheDishes",
+            "location": ["Winnipeg, MB", "Saskatoon, SK"],
+            "coordinates": [49.8951, -97.1384],
+            "website": "https://www.skipthedishes.com/jobs",
+            "linkedIn": "https://www.linkedin.com/company/skipthedishes/",
+            "workField": ["Food Delivery", "Logistics Technology"]
+        },
+        {
+            "name": "Wealthsimple",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.wealthsimple.com/en-ca/work-with-us",
+            "linkedIn": "https://www.linkedin.com/company/wealthsimple/",
+            "workField": ["Financial Technology", "Robo-Advisors", "Investment Management"]
+        },
+        {
+            "name": "Lightspeed",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://www.lightspeedhq.com/careers/",
+            "linkedIn": "https://www.linkedin.com/company/lightspeedhq/",
+            "workField": ["Point-of-Sale Systems", "Retail and Restaurant Software"]
+        },
+        {
+            "name": "RealDecoy",
+            "location": ["Ottawa, ON"],
+            "coordinates": [45.4215, -75.6972],
+            "website": "https://www.realdecoy.com/careers-en/",
+            "linkedIn": "",
+            "workField": ["Digital Commerce", "Data Insights"]
+        },
+        {
+            "name": "AppDirect",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://careers.appdirect.com",
+            "linkedIn": "https://www.linkedin.com/company/appdirect/",
+            "workField": ["Cloud Commerce", "Subscription Management"]
+        },
+        {
+            "name": "Fuze",
+            "location": ["Ottawa, ON"],
+            "coordinates": [45.4215, -75.6972],
+            "website": "https://www.fuze.com/careers#!/",
+            "linkedIn": "",
+            "workField": ["Unified Communications", "Collaboration Software"]
+        },
+        {
+            "name": "Uber Canada",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.uber.com/en-CA/careers/",
+            "linkedIn": "",
+            "workField": ["Ridesharing", "Food Delivery", "Logistics Technology"]
+        },
+        {
+            "name": "Macadamian",
+            "location": ["Ottawa, ON"],
+            "coordinates": [45.4215, -75.6972],
+            "website": "http://www.macadamian.com/careers-ux-designer/",
+            "linkedIn": "https://www.linkedin.com/company/macadamian/",
+            "workField": ["Software Development", "UX Design", "Healthcare Technology"]
+        },
+        {
+            "name": "360pi",
+            "location": ["Ottawa, ON"],
+            "coordinates": [45.4215, -75.6972],
+            "website": "https://www.360pi.com/careers",
+            "linkedIn": "",
+            "workField": ["Retail Analytics", "Price Intelligence"]
+        },
+        {
+            "name": "Mirillion",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "http://www.mirillion.ca/#content-mass-bottom",
+            "linkedIn": "",
+            "workField": ["Recruitment Services", "Talent Acquisition"]
+        },
+        {
+            "name": "AppNeta",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.appneta.com/about/careers/",
+            "linkedIn": "",
+            "workField": ["Network Monitoring", "Performance Management"]
+        },
+        {
+            "name": "Google Waterloo",
+            "location": ["Waterloo, ON"],
+            "coordinates": [43.4643, -80.5204],
+            "website": "https://careers.google.com/locations/waterloo/",
+            "linkedIn": "",
+            "workField": ["Search Technology", "Cloud Computing", "AI and Machine Learning"]
+        },
+        {
+            "name": "Amazon Vancouver",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.amazon.jobs/location/vancouvervictoria-canada?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=vancouvervictoria-canada&cache",
+            "linkedIn": "",
+            "workField": ["E-Commerce", "Cloud Computing", "AI and Logistics"]
+        },
+        {
+            "name": "Amazon Toronto",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.amazon.jobs/en/locations/toronto-canada?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=toronto-canada&cache",
+            "linkedIn": "",
+            "workField": ["E-Commerce", "Cloud Computing", "AI and Logistics"]
+        },
+        {
+            "name": "Nuance",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://jobs.nuance.com/",
+            "linkedIn": "https://www.linkedin.com/company/nuance-communications/",
+            "workField": ["Speech Recognition", "Artificial Intelligence", "Natural Language Processing"]
+        },
+        {
+            "name": "AxiomZen",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.axiomzen.co/careers",
+            "linkedIn": "https://www.linkedin.com/company/axiomzen/",
+            "workField": ["Blockchain", "Product Development", "Innovation Studio"]
+        },
+        {
+            "name": "Daisy Intelligence",
+            "location": ["Vaughan, ON"],
+            "coordinates": [43.8361, -79.5085],
+            "website": "http://www.daisyintelligence.com/careers/",
+            "linkedIn": "https://www.linkedin.com/company/daisy-intelligence-corporation/",
+            "workField": ["Artificial Intelligence", "Retail Analytics", "Insurance Analytics"]
+        },
+        {
+            "name": "Sensibill",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://getsensibill.com/careers",
+            "linkedIn": "https://www.linkedin.com/company/sensibill-inc-/",
+            "workField": ["FinTech", "Receipt Management", "Digital Banking"]
+        },
+        {
+            "name": "DNN Software",
+            "location": ["Langley, BC"],
+            "coordinates": [49.1044, -122.6594],
+            "website": "http://www.dnnsoftware.com/about/careers",
+            "linkedIn": "https://www.linkedin.com/company/dnn/",
+            "workField": ["Content Management Systems", "Web Development"]
+        },
+        {
+            "name": "Move, Inc.",
+            "location": ["Richmond, BC"],
+            "coordinates": [49.1700, -123.1368],
+            "website": "http://careers.move.com/",
+            "linkedIn": "https://www.linkedin.com/company/move-inc-/",
+            "workField": ["Real Estate Technology", "Online Property Listings"]
+        },
+        {
+            "name": "Mogo",
+            "location": ["Vancouver, BC", "Toronto, ON"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.mogo.ca/careers",
+            "linkedIn": "https://www.linkedin.com/company/mogo/",
+            "workField": ["FinTech", "Personal Finance", "Digital Payments"]
+        },
+        {
+            "name": "Via Science",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "http://www.viascience.com/careers/",
+            "linkedIn": "",
+            "workField": ["Artificial Intelligence", "Predictive Analytics"]
+        },
+        {
+            "name": "CWP Energy",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "http://cwpenergy.com/",
+            "linkedIn": "",
+            "workField": ["Energy Trading", "Renewable Energy"]
+        },
+        {
+            "name": "wrnch",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://wrnch.com/jobs/",
+            "linkedIn": "",
+            "workField": ["Computer Vision", "AI-Powered Human Motion Tracking"]
+        },
+        {
+            "name": "Deep Genomics",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.deepgenomics.com/",
+            "linkedIn": "https://www.linkedin.com/company/deep-genomics/",
+            "workField": ["AI-Powered Drug Discovery", "Genomics", "Bioinformatics"]
+        },
+        {
+            "name": "FLIR Systems",
+            "location": ["Richmond, BC"],
+            "coordinates": [49.1700, -123.1368],
+            "website": "http://www.flir.com/careers/?id=64835",
+            "linkedIn": "https://www.linkedin.com/company/flir-systems/",
+            "workField": ["Thermal Imaging", "Sensor Systems", "Defense Technology"]
+        },
+        {
+            "name": "XIRIS",
+            "location": ["Burlington, ON"],
+            "coordinates": [43.3255, -79.7990],
+            "website": "http://www.xiris.com/about-us/careers/",
+            "linkedIn": "https://www.linkedin.com/company/xiris-automation-inc-/",
+            "workField": ["Machine Vision Systems", "Welding Quality Control"]
+        },
+        {
+            "name": "LMI Technologies",
+            "location": ["Burnaby, BC"],
+            "coordinates": [49.2488, -122.9805],
+            "website": "http://lmi3d.com/careers",
+            "linkedIn": "https://www.linkedin.com/company/lmi-technologies/",
+            "workField": ["3D Scanning", "Machine Vision", "Industrial Automation"]
+        },
+        {
+            "name": "Genetec",
+            "location": ["Montreal, QC"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "http://www.genetec.com/about-us/careers",
+            "linkedIn": "https://www.linkedin.com/company/genetec/",
+            "workField": ["Physical Security", "IP Video Surveillance", "Access Control"]
+        },
+        {
+            "name": "Creaform",
+            "location": ["Lévis, QC"],
+            "coordinates": [46.8033, -71.1779],
+            "website": "https://careers.creaform3d.com/",
+            "linkedIn": "https://www.linkedin.com/company/creaform/",
+            "workField": ["3D Scanning", "Engineering Services", "Metrology"]
+        },
+        {
+            "name": "InfoVista",
+            "location": ["Gatineau, QC"],
+            "coordinates": [45.4765, -75.7013],
+            "website": "http://www.infovista.com/company/Career-Opportunities",
+            "linkedIn": "",
+            "workField": ["Network Performance Management", "Telecommunications"]
+        },
+        {
+            "name": "NetWorkers",
+            "location": ["Montreal, QC", "Toronto, ON"],
+            "coordinates": [45.5017, -73.5673],
+            "website": "https://www.networkerstechnology.com/",
+            "linkedIn": "",
+            "workField": ["IT Recruitment", "Technology Staffing"]
+        },
+        {
+            "name": "eBay Canada",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://careers.ebayinc.com/join-our-team/start-your-search/",
+            "linkedIn": "",
+            "workField": ["E-Commerce", "Online Marketplaces"]
+        },
+        {
+            "name": "Affinity Systems",
+            "location": ["Mississauga, ON"],
+            "coordinates": [43.5890, -79.6441],
+            "website": "http://www.affsys.com/company/careers/",
+            "linkedIn": "",
+            "workField": ["Software Development", "IT Consulting"]
+        },
+        {
+            "name": "EPAM Systems",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.epam.com/careers",
+            "linkedIn": "https://www.linkedin.com/company/epam-systems/",
+            "workField": ["Software Engineering", "IT Consulting", "Digital Transformation"]
+        },
+        {
+            "name": "Geotab",
+            "location": ["Oakville, ON"],
+            "coordinates": [43.4675, -79.6877],
+            "website": "https://www.geotab.com/careers/",
+            "linkedIn": "https://www.linkedin.com/company/geotab/",
+            "workField": ["Telematics", "Fleet Management", "IoT"]
+        },
+        {
+            "name": "Rakuten Kobo",
+            "location": ["Toronto, ON"],
+            "coordinates": [43.7001, -79.4163],
+            "website": "https://www.kobo.com/ca/en/p/careers?style=onestore&store=CA",
+            "linkedIn": "",
+            "workField": ["E-Books", "Digital Reading Platforms"]
+        },
+        {
+            "name": "Mobify",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://www.mobify.com/jobs/",
+            "linkedIn": "",
+            "workField": ["Mobile Commerce", "Progressive Web Apps"]
+        },
+        {
+            "name": "DarkVision",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://darkvisiontech.com/careers/",
+            "linkedIn": "",
+            "workField": ["Industrial Imaging", "Oil and Gas Technology"]
+        },
+        {
+            "name": "Invenia",
+            "location": ["Winnipeg, MB"],
+            "coordinates": [49.8951, -97.1384],
+            "website": "https://www.invenia.ca/",
+            "linkedIn": "https://www.linkedin.com/company/invenia/",
+            "workField": ["Machine Learning", "Energy Systems", "AI Research"]
+        },
+        {
+            "name": "Microsoft Vancouver",
+            "location": ["Vancouver, BC"],
+            "coordinates": [49.2827, -123.1207],
+            "website": "https://mcec.microsoft.ca/careers/",
+            "linkedIn": "",
+            "workField": ["Software Development", "Cloud Computing", "Gaming"]
+        },
+        {
+            "name": "DeepMind",
+            "location": ["Edmonton, AB", "Montreal, QC"],
+            "coordinates": [53.5461, -113.4938],
+            "website": "https://deepmind.com/careers/",
+            "linkedIn": "https://www.linkedin.com/company/deepmind/",
+            "workField": ["Artificial Intelligence", "Machine Learning", "AI Research"]
+        },
+        {
+            "name": "REDspace",
+            "location": ["Bedford, NS"],
+            "coordinates": [44.7280, -63.6575],
+            "website": "https://www.redspace.com",
+            "linkedIn": "https://www.linkedin.com/company/redspace/",
+            "workField": ["Digital Media", "Software Development", "Interactive Experiences"]
+        },
+        {
+            "name": "S&P Global",
+            "location": ["Calgary, Alberta, Canada"],
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://www.spglobal.com/",
+            "linkedIn": "https://www.linkedin.com/company/s-p-global/",
+            "workField": ["Financial Services", "Data Analytics", "Cloud Engineering"]
+        },
+        {
+            "name": "Hexagon's Autonomy & Positioning division",
+            "location": ["Calgary, Alberta, Canada"],
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://hexagon.com/segments/autonomy-positioning",
+            "linkedIn": "https://www.linkedin.com/company/hexagon-autonomy-positioning/",
+            "workField": ["Autonomous Technology", "Positioning Technology", "Software Development"]
+        },
+        {
+            "name": "IBM",
+            "location": ["Calgary, Alberta, Canada"],
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://www.ibm.com/",
+            "linkedIn": "https://www.linkedin.com/company/ibm/",
+            "workField": ["Information Technology", "Consulting", "Software Development", "AI"]
+        },
+        {
+            "name": "WestJet",
+            "location": ["Calgary, Alberta, Canada"],
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://www.westjet.com/",
+            "linkedIn": "https://www.linkedin.com/company/westjet/",
+            "workField": ["Airline", "Transportation", "QA Automation", "AEM"]
+        },
+        {
+            "name": "MNP",
+            "location": ["Calgary, Alberta, Canada"],
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://www.mnp.ca/",
+            "linkedIn": "https://www.linkedin.com/company/mnp/",
+            "workField": ["Accounting", "Tax Services", "Business Consulting", "Quality Assurance"]
+        },
+        {
+            "name": "Canonical",
+            "location": ["Calgary, Alberta, Canada"],
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://canonical.com/",
+            "linkedIn": "https://www.linkedin.com/company/canonical/",
+            "workField": ["Open Source", "Ubuntu", "Cloud Computing", "Cloud Support"]
+        },
+        {
+            "name": "GE Vernova",
+            "location": ["Calgary, Alberta, Canada"],
+            "coordinates": [51.0447, -114.0719],
+            "website": "https://www.gevernova.com/",
+            "linkedIn": "https://www.linkedin.com/company/ge-vernova/",
+            "workField": ["Renewable Energy", "Energy Transition", "Build & Release Engineering"]
+        },
+        {
+            "name": "Hi-Flyer Food (Canada) Inc.",
+            "location": ["Calgary, Alberta, Canada"],
+            "coordinates": [51.0447, -114.0719],
+            "website": null,
+            "linkedIn": null,
+            "workField": ["Food Production", "Business Intelligence"]
+        }
+    ]
+}
