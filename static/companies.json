@@ -504,25 +504,6 @@
         "Metrology"
       ]
     },
-    "Critical Mass": {
-      "description": "",
-      "links": {
-        "linkedin": "https://www.linkedin.com/company/critical-mass/",
-        "website": "https://criticalmass.com"
-      },
-      "locations": [
-        {
-          "Calgary, Canada": [
-            51.0447,
-            -114.0719
-          ]
-        }
-      ],
-      "workFields": [
-        "Advertising Services",
-        "Digital Marketing"
-      ]
-    },
     "D&H": {
       "description": "",
       "links": {
@@ -1103,25 +1084,6 @@
         "AI Research"
       ]
     },
-    "Kinaxis": {
-      "description": "",
-      "links": {
-        "linkedin": "",
-        "website": "http://www.kinaxis.com/en/about/kinaxis-careers/"
-      },
-      "locations": [
-        {
-          "['Ottawa, ON']": [
-            45.4215,
-            -75.6972
-          ]
-        }
-      ],
-      "workFields": [
-        "Supply Chain Management Software",
-        "AI-Driven Planning"
-      ]
-    },
     "Kindred.ai": {
       "description": "",
       "links": {
@@ -1423,7 +1385,7 @@
       },
       "locations": [
         {
-          "['Waterloo, ON']": [
+          "Waterloo, ON": [
             43.4643,
             -80.5204
           ]
@@ -1519,7 +1481,7 @@
       },
       "locations": [
         {
-          "['Ottawa, ON']": [
+          "Ottawa, ON": [
             45.4215,
             -75.6972
           ]
@@ -1590,18 +1552,36 @@
     },
     "Shopify": {
       "description": "",
-      "links": {
-        "linkedin": "https://www.linkedin.com/company/shopify/",
-        "website": "https://www.shopify.ca"
-      },
       "locations": [
         {
-          "['Ottawa, ON', 'Toronto, ON', 'Montreal, QC', 'Waterloo, ON']": [
+          "Ottawa, ON": [
             45.4215,
             -75.6972
           ]
+        },
+        {
+          "Toronto, ON": [
+            43.7001,
+            -79.4163
+          ]
+        },
+        {
+          "Montreal, QC": [
+            45.5017,
+            -73.5673
+          ]
+        },
+        {
+          "Waterloo, ON": [
+            43.4643,
+            -80.5204
+          ]
         }
       ],
+      "links": {
+        "website": "https://www.shopify.ca",
+        "linkedin": "https://www.linkedin.com/company/shopify/"
+      },
       "workFields": [
         "E-Commerce Solutions",
         "Online Retail Platforms"
@@ -1788,7 +1768,7 @@
       },
       "locations": [
         {
-          "['Toronto, ON']": [
+          "Toronto, ON": [
             43.7001,
             -79.4163
           ]
@@ -2038,9 +2018,27 @@
       },
       "locations": [
         {
-          "['Vancouver, BC', 'Regina, SK', 'Toronto, ON', 'Winnipeg, MB']": [
+          "Vancouver, BC": [
             49.2827,
             -123.1207
+          ]
+        },
+        {
+          "Regina, SK": [
+            50.4547,
+            -104.6067
+          ]
+        },
+        {
+          "Toronto, ON": [
+            43.7001,
+            -79.4163
+          ]
+        },
+        {
+          "Winnipeg, MB": [
+            49.8951,
+            -97.1384
           ]
         }
       ],
@@ -2066,6 +2064,3460 @@
       "workFields": [
         "Computer Vision",
         "AI-Powered Human Motion Tracking"
+      ]
+    },
+    "OMERS": {
+      "description": "",
+      "locations": [
+        {
+          "Ottawa, Canada": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "links": {
+        "website": "",
+        "linkedin": ""
+      },
+      "workFields": [
+        "Financial Services"
+      ]
+    },
+    "CGI": {
+      "description": "",
+      "locations": [
+        {
+          "Ottawa, Canada": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "links": {
+        "website": "",
+        "linkedin": ""
+      },
+      "workFields": [
+        "IT Services and IT Consulting"
+      ]
+    },
+    "Metrolinx": {
+      "description": "",
+      "locations": [
+        {
+          "Ottawa, Canada": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "links": {
+        "website": "",
+        "linkedin": ""
+      },
+      "workFields": [
+        "Urban Transit Services"
+      ]
+    },
+    "Scotiabank": {
+      "description": "",
+      "locations": [
+        {
+          "Ottawa, Canada": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "links": {
+        "website": "",
+        "linkedin": ""
+      },
+      "workFields": [
+        "Banking"
+      ]
+    },
+    "WSP": {
+      "description": "",
+      "locations": [
+        {
+          "Ottawa, Canada": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "links": {
+        "website": "",
+        "linkedin": ""
+      },
+      "workFields": [
+        "Professional Services"
+      ]
+    },
+    "KPMG": {
+      "description": "",
+      "locations": [
+        {
+          "Ottawa, Canada": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "links": {
+        "website": "",
+        "linkedin": ""
+      },
+      "workFields": [
+        "Accounting"
+      ]
+    },
+    "Ada Inc.": {
+      "description": "",
+      "locations": [
+        {
+          "Ottawa, Canada": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "links": {
+        "website": "",
+        "linkedin": ""
+      },
+      "workFields": [
+        "IT Services and IT Consulting"
+      ]
+    },
+    "Copperleaf Technologies Inc.": {
+      "description": "",
+      "locations": [
+        {
+          "Ottawa, Canada": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "links": {
+        "website": "",
+        "linkedin": ""
+      },
+      "workFields": [
+        "IT Services and IT Consulting"
+      ]
+    },
+    "Northstrat": {
+      "description": "",
+      "locations": [
+        {
+          "Ottawa, Canada": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "links": {
+        "website": "",
+        "linkedin": ""
+      },
+      "workFields": []
+    },
+    "Gaming Laboratories International, LLC": {
+      "description": "Tests electronic gaming equipment, offering functional and compliance evaluations, inspections, and certification of gaming machines, software, peripherals, slot devices, and wireless equipment.",
+      "links": {
+        "website": "https://gaminglabs.com",
+        "linkedin": "https://www.linkedin.com/company/gaming-laboratories-international/"
+      },
+      "locations": [
+        {
+          "Lakewood, New Jersey": [
+            40.0968,
+            -74.2179
+          ]
+        }
+      ],
+      "workFields": [
+        "Gaming",
+        "Technology",
+        "Compliance"
+      ]
+    },
+    "Levvel Inc.": {
+      "description": "Now part of Endava, providing technology solutions that solve real problems for customers around the world.",
+      "links": {
+        "website": "https://www.endava.com",
+        "linkedin": "https://www.linkedin.com/company/endava/"
+      },
+      "locations": [
+        {
+          "Charlotte, North Carolina": [
+            35.2271,
+            -80.8431
+          ]
+        }
+      ],
+      "workFields": [
+        "Technology Consulting",
+        "Digital Transformation"
+      ]
+    },
+    "RBC": {
+      "description": "Royal Bank of Canada, a major Canadian bank offering personal and commercial banking, wealth management services, insurance, investor services and capital markets products and services.",
+      "links": {
+        "website": "https://www.rbc.com",
+        "linkedin": "https://www.linkedin.com/company/rbc/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Banking",
+        "Financial Services"
+      ]
+    },
+    "Fluid Biomed Inc.": {
+      "description": "Medical device company focused on revolutionizing the treatment of vascular disease, developing the world's first hybrid polymer-metal, flow-diverting stent.",
+      "links": {
+        "website": "https://fluidbiomed.com",
+        "linkedin": "https://www.linkedin.com/company/fluid-biomed-inc/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Medical Devices",
+        "Biotechnology"
+      ]
+    },
+    "Cboe Global Markets": {
+      "description": "Provides cutting-edge trading and investment solutions to investors around the world, offering trading across a diverse range of products in multiple asset classes and geographies.",
+      "links": {
+        "website": "https://www.cboe.com",
+        "linkedin": "https://www.linkedin.com/company/cboe/"
+      },
+      "locations": [
+        {
+          "Chicago, Illinois": [
+            41.8781,
+            -87.6298
+          ]
+        }
+      ],
+      "workFields": [
+        "Financial Services",
+        "Stock Exchange"
+      ]
+    },
+    "Hexagon's Autonomy & Positioning division": {
+      "description": "Pioneers end-to-end solutions for assured autonomy and positioning on land, sea and air, part of Hexagon, a global leader in digital reality solutions.",
+      "links": {
+        "website": "https://hexagon.com",
+        "linkedin": "https://www.linkedin.com/company/hexagon-ab/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Autonomy",
+        "Positioning Technology",
+        "Digital Solutions"
+      ]
+    },
+    "CrowdStrike": {
+      "description": "American cybersecurity technology company providing endpoint security, threat intelligence, and cyberattack response services.",
+      "links": {
+        "website": "https://www.crowdstrike.com",
+        "linkedin": "https://www.linkedin.com/company/crowdstrike/"
+      },
+      "locations": [
+        {
+          "Austin, Texas": [
+            30.2672,
+            -97.7431
+          ]
+        }
+      ],
+      "workFields": [
+        "Cybersecurity",
+        "Information Technology"
+      ]
+    },
+    "Deloitte": {
+      "description": "Largest professional services network by revenue and number of employees globally, one of the Big Four accounting firms offering audit, consulting, financial advisory, risk advisory, tax, and legal services.",
+      "links": {
+        "website": "https://www2.deloitte.com",
+        "linkedin": "https://www.linkedin.com/company/deloitte/"
+      },
+      "locations": [
+        {
+          "London, England": [
+            51.5074,
+            -0.1278
+          ]
+        }
+      ],
+      "workFields": [
+        "Professional Services",
+        "Accounting",
+        "Consulting"
+      ]
+    },
+    "Lumenalta": {
+      "description": "Technology services company supporting leading brands across industries since 2000, offering software and technical consulting services.",
+      "links": {
+        "website": "https://www.lumenalta.com",
+        "linkedin": "https://www.linkedin.com/company/lumenalta/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Software Development",
+        "Technical Consulting",
+        "IT Services"
+      ]
+    },
+    "Canonical": {
+      "description": "Privately held computer software company founded by Mark Shuttleworth, known for developing and supporting Ubuntu and related open-source projects.",
+      "links": {
+        "website": "https://canonical.com",
+        "linkedin": "https://www.linkedin.com/company/canonical/"
+      },
+      "locations": [
+        {
+          "London, England": [
+            51.5074,
+            -0.1278
+          ]
+        }
+      ],
+      "workFields": [
+        "Software Development",
+        "Open Source",
+        "Cloud Computing"
+      ]
+    },
+    "WestJet": {
+      "description": "Canadian airline based in Calgary, Alberta, providing scheduled and charter air service for passengers and cargo to destinations in Canada, the United States, Europe, Mexico, Central America, and the Caribbean.",
+      "links": {
+        "website": "https://www.westjet.com",
+        "linkedin": "https://www.linkedin.com/company/westjet/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Aviation",
+        "Transportation",
+        "Travel"
+      ]
+    },
+    "Mphasis": {
+      "description": "Global Information Technology solutions provider specializing in cloud and cognitive services, applying next-generation technology to help enterprises transform businesses globally.",
+      "links": {
+        "website": "https://www.mphasis.com",
+        "linkedin": "https://www.linkedin.com/company/mphasis/"
+      },
+      "locations": [
+        {
+          "Bengaluru, Karnataka": [
+            12.9716,
+            77.5946
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Services",
+        "Cloud Computing",
+        "Digital Transformation"
+      ]
+    },
+    "Raas Infotek": {
+      "description": "Full spectrum global Information Technology services company providing end-to-end business solutions, including software development, IT staff augmentation, consulting, and training.",
+      "links": {
+        "website": "http://www.raasinfotek.com",
+        "linkedin": "https://www.linkedin.com/company/raas-infotek/"
+      },
+      "locations": [
+        {
+          "Newark, Delaware": [
+            39.6836,
+            -75.7497
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Services",
+        "Software Development",
+        "Staff Augmentation"
+      ]
+    },
+    "Insight Global": {
+      "description": "International staffing and services company specializing in sourcing IT, accounting, finance, healthcare, and engineering professionals for Fortune 1000 clients.",
+      "links": {
+        "website": "https://www.insightglobal.com",
+        "linkedin": "https://www.linkedin.com/company/insight-global/"
+      },
+      "locations": [
+        {
+          "Atlanta, Georgia": [
+            33.7490,
+            -84.3880
+          ]
+        }
+      ],
+      "workFields": [
+        "Staffing",
+        "Recruiting",
+        "Professional Services"
+      ]
+    },
+    "Jolera Inc.": {
+      "description": "Global Systems Integrator (GSI) dedicated to transforming IT operations into secure, efficient environments, with a team of over 500 professionals across 24 countries.",
+      "links": {
+        "website": "https://www.jolera.com",
+        "linkedin": "https://www.linkedin.com/company/jolera/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Services",
+        "Systems Integration",
+        "Managed Services"
+      ]
+    },
+    "TELUS Digital AI Data Solutions": {
+      "description": "A division of TELUS focused on leveraging AI and data solutions to drive digital transformation and enhance customer experiences.",
+      "links": {
+        "website": "https://www.telus.com/en/digital",
+        "linkedin": "https://www.linkedin.com/company/telus-digital/"
+      },
+      "locations": [
+        {
+          "Vancouver, British Columbia": [
+            49.2827,
+            -123.1207
+          ]
+        }
+      ],
+      "workFields": [
+        "Artificial Intelligence",
+        "Data Solutions",
+        "Digital Transformation"
+      ]
+    },
+    "Autodesk": {
+      "description": "Global leader in 3D design, engineering, and entertainment software, providing tools for architecture, engineering, construction, manufacturing, media, and entertainment industries.",
+      "links": {
+        "website": "https://www.autodesk.com",
+        "linkedin": "https://www.linkedin.com/company/autodesk/"
+      },
+      "locations": [
+        {
+          "San Rafael, California": [
+            37.9735,
+            -122.5311
+          ]
+        }
+      ],
+      "workFields": [
+        "Software Development",
+        "3D Design",
+        "Engineering"
+      ]
+    },
+    "Randstad Digital": {
+      "description": "Part of Randstad, specializing in digital talent solutions and staffing services for IT and technology professionals.",
+      "links": {
+        "website": "https://www.randstad.com/digital/",
+        "linkedin": "https://www.linkedin.com/company/randstad-digital/"
+      },
+      "locations": [
+        {
+          "Amsterdam, Netherlands": [
+            52.3676,
+            4.9041
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Staffing",
+        "Digital Talent Solutions",
+        "Recruitment"
+      ]
+    },
+    "CoolIT Systems": {
+      "description": "Global leader in scalable liquid cooling technology for desktop and data center systems, providing energy-efficient cooling solutions for high-performance computing.",
+      "links": {
+        "website": "https://www.coolitsystems.com",
+        "linkedin": "https://www.linkedin.com/company/coolit-systems/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Liquid Cooling Technology",
+        "Data Center Solutions",
+        "High-Performance Computing"
+      ]
+    },
+    "Adastra": {
+      "description": "Global leader in Data Management and Analytics, helping organizations transform data into actionable insights and tangible business results.",
+      "links": {
+        "website": "https://www.adastragrp.com",
+        "linkedin": "https://www.linkedin.com/company/adastra-corporation/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Data Management",
+        "Analytics",
+        "Digital Transformation"
+      ]
+    },
+    "Wissen Technology": {
+      "description": "Global technology company providing innovative solutions in digital transformation, cloud computing, and data analytics to help businesses stay competitive in the digital age.",
+      "links": {
+        "website": "https://www.wissen.com",
+        "linkedin": "https://www.linkedin.com/company/wissen-technology/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Digital Transformation",
+        "Cloud Computing",
+        "Data Analytics"
+      ]
+    },
+    "EY": {
+      "description": "One of the largest professional services networks in the world and one of the Big Four accounting firms, offering assurance, consulting, strategy and transactions, and tax services.",
+      "links": {
+        "website": "https://www.ey.com",
+        "linkedin": "https://www.linkedin.com/company/ernst-&-young/"
+      },
+      "locations": [
+        {
+          "London, England": [
+            51.5074,
+            -0.1278
+          ]
+        }
+      ],
+      "workFields": [
+        "Professional Services",
+        "Accounting",
+        "Consulting"
+      ]
+    },
+    "Sobeys": {
+      "description": "Canadian grocery retailer and the second largest food retailer in Canada, with over 1,500 stores operating across Canada under various banners.",
+      "links": {
+        "website": "https://www.sobeys.com",
+        "linkedin": "https://www.linkedin.com/company/sobeys/"
+      },
+      "locations": [
+        {
+          "Stellarton, Nova Scotia": [
+            45.5566,
+            -62.7406
+          ]
+        }
+      ],
+      "workFields": [
+        "Retail",
+        "Grocery",
+        "Food Distribution"
+      ]
+    },
+    "DEG engineering Inc": {
+      "description": "Engineering firm specializing in structural engineering services for commercial, industrial, and residential projects.",
+      "links": {
+        "website": "https://www.degengineering.com",
+        "linkedin": "https://www.linkedin.com/company/deg-engineering-inc/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Structural Engineering",
+        "Construction",
+        "Design"
+      ]
+    },
+    "Morgan Stanley": {
+      "description": "Global financial services firm providing investment banking, securities, wealth management and investment management services.",
+      "links": {
+        "website": "https://www.morganstanley.com",
+        "linkedin": "https://www.linkedin.com/company/morgan-stanley/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Financial Services",
+        "Investment Banking",
+        "Wealth Management"
+      ]
+    },
+    "Canadian Natural Resources Limited (CNRL)": {
+      "description": "Canadian oil and gas company engaged in the exploration, development, production, and marketing of crude oil and natural gas.",
+      "links": {
+        "website": "https://www.cnrl.com",
+        "linkedin": "https://www.linkedin.com/company/canadian-natural-resources-limited/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas",
+        "Energy",
+        "Natural Resources"
+      ]
+    },
+    "FDM Group": {
+      "description": "Global professional services provider with a focus on IT and business consulting, offering career programs for graduates, ex-forces personnel, and returners to work.",
+      "links": {
+        "website": "https://www.fdmgroup.com",
+        "linkedin": "https://www.linkedin.com/company/fdm-group/"
+      },
+      "locations": [
+        {
+          "London, England": [
+            51.5074,
+            -0.1278
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Consulting",
+        "Professional Services",
+        "Graduate Programs"
+      ]
+    },
+    "De Havilland Aircraft of Canada Limited": {
+      "description": "Canadian aircraft manufacturer specializing in the design and production of turboprop aircraft for commercial and special mission applications.",
+      "links": {
+        "website": "https://dehavilland.com",
+        "linkedin": "https://www.linkedin.com/company/de-havilland-aircraft-of-canada-limited/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Aerospace",
+        "Aircraft Manufacturing",
+        "Aviation"
+      ]
+    },
+    "S&P Global": {
+      "description": "American publicly traded corporation headquartered in New York City that provides financial information and analytics.",
+      "links": {
+        "website": "https://www.spglobal.com",
+        "linkedin": "https://www.linkedin.com/company/s&p-global/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Financial Services",
+        "Market Intelligence",
+        "Analytics"
+      ]
+    },
+    "Accenture": {
+      "description": "Global professional services company that provides a broad range of services in strategy, consulting, digital, technology, and operations.",
+      "links": {
+        "website": "https://www.accenture.com",
+        "linkedin": "https://www.linkedin.com/company/accenture/"
+      },
+      "locations": [
+        {
+          "Dublin, Ireland": [
+            53.3498,
+            -6.2603
+          ]
+        }
+      ],
+      "workFields": [
+        "Consulting",
+        "Technology Services",
+        "Outsourcing"
+      ]
+    },
+    "IBM": {
+      "description": "Multinational technology corporation that produces and sells computer hardware, middleware and software, and provides hosting and consulting services in areas ranging from mainframe computers to nanotechnology.",
+      "links": {
+        "website": "https://www.ibm.com",
+        "linkedin": "https://www.linkedin.com/company/ibm/"
+      },
+      "locations": [
+        {
+          "Armonk, New York": [
+            41.1265,
+            -73.7132
+          ]
+        }
+      ],
+      "workFields": [
+        "Information Technology",
+        "Cloud Computing",
+        "Artificial Intelligence"
+      ]
+    },
+    "MNP": {
+      "description": "One of the largest full-service chartered professional accountancy and business advisory firms in Canada, providing client-focused accounting, consulting, tax, and digital solutions.",
+      "links": {
+        "website": "https://www.mnp.ca",
+        "linkedin": "https://www.linkedin.com/company/mnp-llp/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Accounting",
+        "Consulting",
+        "Tax Services"
+      ]
+    },
+    "GE Vernova": {
+      "description": "A planned spin-off company from General Electric, focusing on power generation and renewable energy technologies.",
+      "links": {
+        "website": "https://www.ge.com/vernova",
+        "linkedin": "https://www.linkedin.com/company/ge-vernova/"
+      },
+      "locations": [
+        {
+          "Cambridge, Massachusetts": [
+            42.3736,
+            -71.1097
+          ]
+        }
+      ],
+      "workFields": [
+        "Energy",
+        "Renewable Energy",
+        "Power Generation"
+      ]
+    },
+    "CQ Search Group Ltd.": {
+      "description": "Boutique executive search firm specializing in placing top talent in various industries across Canada.",
+      "links": {
+        "website": "https://www.cqsearchgroup.com",
+        "linkedin": "https://www.linkedin.com/company/cq-search-group-ltd-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Executive Search",
+        "Recruitment",
+        "Talent Acquisition"
+      ]
+    },
+    "Critical Mass": {
+      "description": "Global digital experience design agency that provides customer experience strategy, design, and technology services.",
+      "links": {
+        "website": "https://www.criticalmass.com",
+        "linkedin": "https://www.linkedin.com/company/critical-mass/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Digital Design",
+        "Customer Experience",
+        "Marketing"
+      ]
+    },
+    "Hi-Flyer Food (Canada) Inc.": {
+      "description": "Food manufacturing and distribution company specializing in Asian cuisine products.",
+      "links": {
+        "website": "https://www.hiflyerfood.com",
+        "linkedin": "https://www.linkedin.com/company/hi-flyer-food-canada-inc-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Food Manufacturing",
+        "Distribution",
+        "Asian Cuisine"
+      ]
+    },
+    "Connected Dealer Services": {
+      "description": "Provides technology solutions and services for automotive dealerships, focusing on improving operational efficiency and customer experience.",
+      "links": {
+        "website": "https://www.connectedds.com",
+        "linkedin": "https://www.linkedin.com/company/connected-dealer-services/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Automotive Technology",
+        "Software Solutions",
+        "Dealership Services"
+      ]
+    },
+    "Peloton": {
+      "description": "American exercise equipment and media company that offers connected fitness products with touchscreens that stream live and on-demand classes.",
+      "links": {
+        "website": "https://www.onepeloton.com",
+        "linkedin": "https://www.linkedin.com/company/peloton-interactive/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Fitness Technology",
+        "Media",
+        "Consumer Electronics"
+      ]
+    },
+    "HCLTech": {
+      "description": "Indian multinational technology company that provides software development, infrastructure management, and business process outsourcing services.",
+      "links": {
+        "website": "https://www.hcltech.com",
+        "linkedin": "https://www.linkedin.com/company/hcltech/"
+      },
+      "locations": [
+        {
+          "Noida, Uttar Pradesh": [
+            28.5355,
+            77.3910
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Services",
+        "Software Development",
+        "Digital Solutions"
+      ]
+    },
+    "Hays": {
+      "description": "Global professional recruiting group, specializing in permanent and temporary staffing across a wide range of industries and sectors.",
+      "links": {
+        "website": "https://www.hays.com",
+        "linkedin": "https://www.linkedin.com/company/hays/"
+      },
+      "locations": [
+        {
+          "London, England": [
+            51.5074,
+            -0.1278
+          ]
+        }
+      ],
+      "workFields": [
+        "Recruitment",
+        "Staffing",
+        "Human Resources"
+      ]
+    },
+    "Helcim": {
+      "description": "Canadian financial technology company providing payment processing solutions and merchant services for businesses.",
+      "links": {
+        "website": "https://www.helcim.com",
+        "linkedin": "https://www.linkedin.com/company/helcim/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "FinTech",
+        "Payment Processing",
+        "Merchant Services"
+      ]
+    },
+    "TLNT Bridge Recruiting": {
+      "description": "Recruitment firm specializing in connecting talented professionals with opportunities in various industries.",
+      "links": {
+        "website": "https://www.tlntbridge.com",
+        "linkedin": "https://www.linkedin.com/company/tlnt-bridge-recruiting/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Human Resources"
+      ]
+    },
+    "AMD": {
+      "description": "American multinational semiconductor company that develops computer processors and related technologies for business and consumer markets.",
+      "links": {
+        "website": "https://www.amd.com",
+        "linkedin": "https://www.linkedin.com/company/amd/"
+      },
+      "locations": [
+        {
+          "Santa Clara, California": [
+            37.3541,
+            -121.9552
+          ]
+        }
+      ],
+      "workFields": [
+        "Semiconductor",
+        "Computer Hardware",
+        "Technology"
+      ]
+    },
+    "University of Calgary": {
+      "description": "Public research university located in Calgary, Alberta, Canada, known for its programs in energy, engineering, business, and health sciences.",
+      "links": {
+        "website": "https://www.ucalgary.ca",
+        "linkedin": "https://www.linkedin.com/school/university-of-calgary/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Higher Education",
+        "Research",
+        "Academia"
+      ]
+    },
+    "Circle Cardiovascular Imaging": {
+      "description": "Global leader in cardiovascular imaging solutions, providing innovative software for the analysis and evaluation of cardiovascular MR and CT images.",
+      "links": {
+        "website": "https://www.circlecvi.com",
+        "linkedin": "https://www.linkedin.com/company/circle-cardiovascular-imaging-inc-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Medical Imaging",
+        "Healthcare Technology",
+        "Software Development"
+      ]
+    },
+    "WaterSMART Solutions Ltd.": {
+      "description": "Consulting firm specializing in water management strategies and solutions for various sectors including government, industry, and communities.",
+      "links": {
+        "website": "https://www.watersmartsolutions.ca",
+        "linkedin": "https://www.linkedin.com/company/watersmart-solutions-ltd-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Water Management",
+        "Environmental Consulting",
+        "Sustainability"
+      ]
+    },
+    "Pengcorp Ltd.": {
+      "description": "Consulting and professional services firm specializing in project management and engineering solutions for various industries.",
+      "links": {
+        "website": "https://www.pengcorp.com",
+        "linkedin": "https://www.linkedin.com/company/pengcorp-ltd-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Project Management",
+        "Engineering",
+        "Consulting"
+      ]
+    },
+    "Stantec": {
+      "description": "Global design and delivery firm that provides professional consulting services in planning, engineering, architecture, interior design, landscape architecture, surveying, environmental sciences, project management, and project economics.",
+      "links": {
+        "website": "https://www.stantec.com",
+        "linkedin": "https://www.linkedin.com/company/stantec/"
+      },
+      "locations": [
+        {
+          "Edmonton, Alberta": [
+            53.5461,
+            -113.4938
+          ]
+        }
+      ],
+      "workFields": [
+        "Engineering",
+        "Architecture",
+        "Environmental Services"
+      ]
+    },
+    "KTek Resourcing": {
+      "description": "Recruitment and staffing agency specializing in placing IT and technology professionals across various industries.",
+      "links": {
+        "website": "https://www.ktekresourcing.com",
+        "linkedin": "https://www.linkedin.com/company/ktek-resourcing/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Recruitment",
+        "Staffing",
+        "Technology Consulting"
+      ]
+    },
+    "Charter": {
+      "description": "American telecommunications and mass media company offering cable television, internet and telephone services under the branding of Spectrum.",
+      "links": {
+        "website": "https://corporate.charter.com",
+        "linkedin": "https://www.linkedin.com/company/charter-communications/"
+      },
+      "locations": [
+        {
+          "Stamford, Connecticut": [
+            41.0534,
+            -73.5387
+          ]
+        }
+      ],
+      "workFields": [
+        "Telecommunications",
+        "Cable TV",
+        "Internet Services"
+      ]
+    },
+    "AO Globe Life: Getty": {
+      "description": "Division of Globe Life Inc., focusing on insurance and financial services products.",
+      "links": {
+        "website": "https://www.globelife.com",
+        "linkedin": "https://www.linkedin.com/company/globe-life/"
+      },
+      "locations": [
+        {
+          "McKinney, Texas": [
+            33.1972,
+            -96.6397
+          ]
+        }
+      ],
+      "workFields": [
+        "Insurance",
+        "Financial Services"
+      ]
+    },
+    "Steelhaus Technologies Inc": {
+      "description": "Technology company specializing in software development and IT solutions for various industries.",
+      "links": {
+        "website": "https://www.steelhaus.com",
+        "linkedin": "https://www.linkedin.com/company/steelhaus-technologies-inc/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Software Development",
+        "IT Solutions",
+        "Technology Consulting"
+      ]
+    },
+    "Genpact": {
+      "description": "Global professional services firm offering digital-led innovation and digitally-enabled intelligent operations for organizations.",
+      "links": {
+        "website": "https://www.genpact.com",
+        "linkedin": "https://www.linkedin.com/company/genpact/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Business Process Management",
+        "Digital Transformation",
+        "Analytics"
+      ]
+    },
+    "AssetWorks Inc": {
+      "description": "Provider of integrated workplace management systems and fleet management software solutions for organizations in various sectors.",
+      "links": {
+        "website": "https://www.assetworks.com",
+        "linkedin": "https://www.linkedin.com/company/assetworks/"
+      },
+      "locations": [
+        {
+          "Wayne, Pennsylvania": [
+            40.0445,
+            -75.3869
+          ]
+        }
+      ],
+      "workFields": [
+        "Fleet Management",
+        "Asset Management",
+        "Software Solutions"
+      ]
+    },
+    "ExxonMobil": {
+      "description": "One of the world's largest publicly traded international oil and gas companies, engaged in the exploration, production, and sale of crude oil and natural gas.",
+      "links": {
+        "website": "https://corporate.exxonmobil.com",
+        "linkedin": "https://www.linkedin.com/company/exxonmobil/"
+      },
+      "locations": [
+        {
+          "Irving, Texas": [
+            32.8140,
+            -96.9489
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas",
+        "Energy",
+        "Petrochemicals"
+      ]
+    },
+    "Imperial Oil": {
+      "description": "Canadian petroleum company engaged in the exploration, production, and sale of crude oil and natural gas, and a major producer of petrochemicals.",
+      "links": {
+        "website": "https://www.imperialoil.ca",
+        "linkedin": "https://www.linkedin.com/company/imperial-oil/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas",
+        "Energy",
+        "Petrochemicals"
+      ]
+    },
+    "Allnorth Ingenieria": {
+      "description": "Engineering and technical services company providing solutions for projects in various industries including mining, oil & gas, pulp & paper, and infrastructure.",
+      "links": {
+        "website": "https://www.allnorth.com",
+        "linkedin": "https://www.linkedin.com/company/allnorth-consultants-limited/"
+      },
+      "locations": [
+        {
+          "Vancouver, British Columbia": [
+            49.2827,
+            -123.1207
+          ]
+        }
+      ],
+      "workFields": [
+        "Engineering",
+        "Technical Services",
+        "Project Management"
+      ]
+    },
+    "Startec Compression & Process and Startec Service": {
+      "description": "Provides engineered solutions for gas compression, process equipment, and related services for the energy industry.",
+      "links": {
+        "website": "https://www.startec.ca",
+        "linkedin": "https://www.linkedin.com/company/startec/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Gas Compression",
+        "Process Equipment",
+        "Energy Services"
+      ]
+    },
+    "Softeon": {
+      "description": "Provider of supply chain software solutions including Warehouse Management System (WMS), Distributed Order Management (DOM), and Labor & Resource Management.",
+      "links": {
+        "website": "https://www.softeon.com",
+        "linkedin": "https://www.linkedin.com/company/softeon/"
+      },
+      "locations": [
+        {
+          "Reston, Virginia": [
+            38.9586,
+            -77.3570
+          ]
+        }
+      ],
+      "workFields": [
+        "Supply Chain Software",
+        "Warehouse Management",
+        "Order Management"
+      ]
+    },
+    "Aramark Canada": {
+      "description": "Provider of food service, facilities, and uniform services to healthcare institutions, universities and school districts, stadiums and arenas, and businesses in Canada.",
+      "links": {
+        "website": "https://www.aramark.ca",
+        "linkedin": "https://www.linkedin.com/company/aramark-canada/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Food Services",
+        "Facilities Management",
+        "Uniform Services"
+      ]
+    },
+    "Airswift": {
+      "description": "Global workforce solutions provider for the energy, process, infrastructure, mining and technology industries.",
+      "links": {
+        "website": "https://www.airswift.com",
+        "linkedin": "https://www.linkedin.com/company/airswift/"
+      },
+      "locations": [
+        {
+          "Houston, Texas": [
+            29.7604,
+            -95.3698
+          ]
+        }
+      ],
+      "workFields": [
+        "Workforce Solutions",
+        "Recruitment",
+        "HR Services"
+      ]
+    },
+    "Trans Mountain": {
+      "description": "Canadian corporation that operates the Trans Mountain pipeline system, transporting crude oil and refined products from Alberta to the west coast of British Columbia.",
+      "links": {
+        "website": "https://www.transmountain.com",
+        "linkedin": "https://www.linkedin.com/company/trans-mountain/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas",
+        "Pipeline Operations",
+        "Energy Infrastructure"
+      ]
+    },
+    "Sunrise Group Inc.": {
+      "description": "Staffing and recruitment agency specializing in placing professionals in various industries including IT, engineering, and finance.",
+      "links": {
+        "website": "https://www.sunrisegroup.ca",
+        "linkedin": "https://www.linkedin.com/company/sunrise-group-inc-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Staffing",
+        "Recruitment",
+        "Human Resources"
+      ]
+    },
+    "Rackspace Technology": {
+      "description": "Multicloud technology services company that designs, builds and operates cloud environments across all major technology platforms.",
+      "links": {
+        "website": "https://www.rackspace.com",
+        "linkedin": "https://www.linkedin.com/company/rackspace-technology/"
+      },
+      "locations": [
+        {
+          "San Antonio, Texas": [
+            29.4241,
+            -98.4936
+          ]
+        }
+      ],
+      "workFields": [
+        "Cloud Computing",
+        "Managed Services",
+        "IT Consulting"
+      ]
+    },
+    "KAnand Corporation": {
+      "description": "IT consulting and staffing firm providing technology solutions and talent acquisition services to various industries.",
+      "links": {
+        "website": "https://www.kanandcorp.com",
+        "linkedin": "https://www.linkedin.com/company/kanand-corporation/"
+      },
+      "locations": [
+        {
+          "Mississauga, Ontario": [
+            43.5890,
+            -79.6441
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Consulting",
+        "Staffing",
+        "Technology Solutions"
+      ]
+    },
+    "SYNERGY DATA INC": {
+      "description": "Information technology services company specializing in data management, business intelligence, and analytics solutions.",
+      "links": {
+        "website": "https://www.synergydatainc.com",
+        "linkedin": "https://www.linkedin.com/company/synergy-data-inc/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Data Management",
+        "Business Intelligence",
+        "Analytics"
+      ]
+    },
+    "Procom": {
+      "description": "One of North America's leading staffing and contract workforce services providers, specializing in technology and professional staffing.",
+      "links": {
+        "website": "https://www.procomservices.com",
+        "linkedin": "https://www.linkedin.com/company/procom/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Staffing",
+        "Workforce Solutions",
+        "IT Recruitment"
+      ]
+    },
+    "Epsilon Solutions Ltd.": {
+      "description": "Consulting firm providing project management, engineering, and technical services to the energy and industrial sectors.",
+      "links": {
+        "website": "https://www.epsilonsolutions.ca",
+        "linkedin": "https://www.linkedin.com/company/epsilon-solutions-ltd-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Project Management",
+        "Engineering",
+        "Technical Services"
+      ]
+    },
+    "Oppizi": {
+      "description": "Global offline marketing company specializing in customer acquisition through targeted hand-to-hand marketing campaigns.",
+      "links": {
+        "website": "https://www.oppizi.com",
+        "linkedin": "https://www.linkedin.com/company/oppizi/"
+      },
+      "locations": [
+        {
+          "Sydney, New South Wales": [
+            -33.8688,
+            151.2093
+          ]
+        }
+      ],
+      "workFields": [
+        "Marketing",
+        "Customer Acquisition",
+        "Offline Advertising"
+      ]
+    },
+    "Pacific Canadian Careers": {
+      "description": "Recruitment and career services company focusing on connecting job seekers with employers in various industries across Canada.",
+      "links": {
+        "website": "https://www.pacificcanadian.com",
+        "linkedin": "https://www.linkedin.com/company/pacific-canadian-careers/"
+      },
+      "locations": [
+        {
+          "Vancouver, British Columbia": [
+            49.2827,
+            -123.1207
+          ]
+        }
+      ],
+      "workFields": [
+        "Recruitment",
+        "Career Services",
+        "Job Placement"
+      ]
+    },
+    "Refresco": {
+      "description": "World's largest independent bottler of beverages for retailers and A-brands in Europe and North America.",
+      "links": {
+        "website": "https://www.refresco.com",
+        "linkedin": "https://www.linkedin.com/company/refresco/"
+      },
+      "locations": [
+        {
+          "Rotterdam, Netherlands": [
+            51.9225,
+            4.4792
+          ]
+        }
+      ],
+      "workFields": [
+        "Beverage Manufacturing",
+        "Bottling",
+        "Food & Beverage Industry"
+      ]
+    },
+    "SHI International Corp.": {
+      "description": "Global provider of technology products and services, offering custom IT solutions for every aspect of your business.",
+      "links": {
+        "website": "https://www.shi.com",
+        "linkedin": "https://www.linkedin.com/company/shi-international-corp/"
+      },
+      "locations": [
+        {
+          "Somerset, New Jersey": [
+            40.4968,
+            -74.4890
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Solutions",
+        "Technology Products",
+        "Managed Services"
+      ]
+    },
+    "Keyera": {
+      "description": "Canadian midstream oil and gas operator, providing essential services to oil and gas producers in the Western Canada Sedimentary Basin.",
+      "links": {
+        "website": "https://www.keyera.com",
+        "linkedin": "https://www.linkedin.com/company/keyera/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas",
+        "Midstream Services",
+        "Energy"
+      ]
+    },
+    "Ignite Your Success": {
+      "description": "Career coaching and professional development company helping individuals achieve their career goals and organizations improve their workforce.",
+      "links": {
+        "website": "https://www.igniteyoursuccess.com",
+        "linkedin": "https://www.linkedin.com/company/ignite-your-success/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Career Coaching",
+        "Professional Development",
+        "Training"
+      ]
+    },
+    "Cardinal Health Canada": {
+      "description": "Distributor of pharmaceuticals and medical products, providing supply chain services to healthcare providers, pharmacies, and laboratories across Canada.",
+      "links": {
+        "website": "https://www.cardinalhealth.ca",
+        "linkedin": "https://www.linkedin.com/company/cardinal-health-canada/"
+      },
+      "locations": [
+        {
+          "Mississauga, Ontario": [
+            43.5890,
+            -79.6441
+          ]
+        }
+      ],
+      "workFields": [
+        "Healthcare",
+        "Pharmaceutical Distribution",
+        "Medical Supplies"
+      ]
+    },
+    "aramco": {
+      "description": "One of the world's largest integrated energy and chemicals companies, creating value across the hydrocarbon chain.",
+      "links": {
+        "website": "https://www.aramco.com",
+        "linkedin": "https://www.linkedin.com/company/aramco/"
+      },
+      "locations": [
+        {
+          "Dhahran, Saudi Arabia": [
+            26.2886,
+            50.1142
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas",
+        "Energy",
+        "Petrochemicals"
+      ]
+    },
+    "AESO": {
+      "description": "Alberta Electric System Operator, responsible for the safe, reliable, and economic planning and operation of Alberta's electricity grid.",
+      "links": {
+        "website": "https://www.aeso.ca",
+        "linkedin": "https://www.linkedin.com/company/aeso/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Electricity",
+        "Grid Operations",
+        "Energy Management"
+      ]
+    },
+    "Alberta Health Services": {
+      "description": "Provides healthcare services to more than 4.4 million people in Alberta, Canada, operating 106 acute care hospitals and numerous community-based services.",
+      "links": {
+        "website": "https://www.albertahealthservices.ca",
+        "linkedin": "https://www.linkedin.com/company/alberta-health-services/"
+      },
+      "locations": [
+        {
+          "Edmonton, Alberta": [
+            53.5461,
+            -113.4938
+          ]
+        }
+      ],
+      "workFields": [
+        "Healthcare",
+        "Public Health",
+        "Medical Services"
+      ]
+    },
+    "EVRAZ North America": {
+      "description": "Leading North American producer of engineered steel products for rail, energy, and industrial end markets.",
+      "links": {
+        "website": "https://www.evrazna.com",
+        "linkedin": "https://www.linkedin.com/company/evraz-north-america/"
+      },
+      "locations": [
+        {
+          "Chicago, Illinois": [
+            41.8781,
+            -87.6298
+          ]
+        }
+      ],
+      "workFields": [
+        "Steel Production",
+        "Manufacturing",
+        "Industrial Products"
+      ]
+    },
+    "Cenovus Energy": {
+      "description": "Canadian integrated oil and natural gas company focused on sustainable energy development in the oil sands of northern Alberta.",
+      "links": {
+        "website": "https://www.cenovus.com",
+        "linkedin": "https://www.linkedin.com/company/cenovus-energy/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas",
+        "Energy",
+        "Sustainability"
+      ]
+    },
+    "Suncor Energy": {
+      "description": "Canadian integrated energy company focused on developing the Athabasca oil sands, producing synthetic crude oil and low-sulphur diesel.",
+      "links": {
+        "website": "https://www.suncor.com",
+        "linkedin": "https://www.linkedin.com/company/suncor-energy/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas",
+        "Energy",
+        "Sustainability"
+      ]
+    },
+    "Enbridge": {
+      "description": "Canadian multinational energy transportation company, operating the world's longest crude oil and liquids pipeline system.",
+      "links": {
+        "website": "https://www.enbridge.com",
+        "linkedin": "https://www.linkedin.com/company/enbridge/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Energy Transportation",
+        "Pipeline Operations",
+        "Oil & Gas"
+      ]
+    },
+    "Chandos Construction": {
+      "description": "One of North America's most innovative and collaborative builders, specializing in commercial, institutional, and industrial construction.",
+      "links": {
+        "website": "https://www.chandos.com",
+        "linkedin": "https://www.linkedin.com/company/chandos-construction-ltd-/"
+      },
+      "locations": [
+        {
+          "Edmonton, Alberta": [
+            53.5461,
+            -113.4938
+          ]
+        }
+      ],
+      "workFields": [
+        "Construction",
+        "Project Management",
+        "Building Services"
+      ]
+    },
+    "Lafarge Canada": {
+      "description": "Leading provider of construction materials in Canada, offering cement, concrete, and aggregates for various construction projects.",
+      "links": {
+        "website": "https://www.lafarge.ca",
+        "linkedin": "https://www.linkedin.com/company/lafarge-canada/"
+      },
+      "locations": [
+        {
+          "Mississauga, Ontario": [
+            43.5890,
+            -79.6441
+          ]
+        }
+      ],
+      "workFields": [
+        "Construction Materials",
+        "Cement Production",
+        "Aggregates"
+      ]
+    },
+    "Affirm": {
+      "description": "Financial technology company that provides installment loans for consumers to use at the point of sale to finance purchases.",
+      "links": {
+        "website": "https://www.affirm.com",
+        "linkedin": "https://www.linkedin.com/company/affirm/"
+      },
+      "locations": [
+        {
+          "San Francisco, California": [
+            37.7749,
+            -122.4194
+          ]
+        }
+      ],
+      "workFields": [
+        "FinTech",
+        "Consumer Finance",
+        "Payment Solutions"
+      ]
+    },
+    "Forum Energy Technologies": {
+      "description": "Global oilfield products company, serving the drilling, downhole, subsea, completions, and production sectors of the oil and natural gas industry.",
+      "links": {
+        "website": "https://www.f-e-t.com",
+        "linkedin": "https://www.linkedin.com/company/forum-energy-technologies/"
+      },
+      "locations": [
+        {
+          "Houston, Texas": [
+            29.7604,
+            -95.3698
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas Equipment",
+        "Energy Services",
+        "Manufacturing"
+      ]
+    },
+    "Pembina Pipeline Corporation": {
+      "description": "Leading transportation and midstream service provider that has been serving North America's energy industry for over 65 years.",
+      "links": {
+        "website": "https://www.pembina.com",
+        "linkedin": "https://www.linkedin.com/company/pembina-pipeline-corporation/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Energy",
+        "Pipeline Operations",
+        "Midstream Services"
+      ]
+    },
+    "Pembina Gas Infrastructure": {
+      "description": "A joint venture between Pembina Pipeline Corporation and KKR, focused on natural gas processing and related infrastructure in Western Canada.",
+      "links": {
+        "website": "https://www.pembina.com/about-us/pembina-gas-infrastructure/",
+        "linkedin": "https://www.linkedin.com/company/pembina-pipeline-corporation/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Natural Gas Processing",
+        "Energy Infrastructure",
+        "Midstream Services"
+      ]
+    },
+    "Honeywell": {
+      "description": "Multinational conglomerate company that produces a variety of commercial and consumer products, engineering services and aerospace systems.",
+      "links": {
+        "website": "https://www.honeywell.com",
+        "linkedin": "https://www.linkedin.com/company/honeywell/"
+      },
+      "locations": [
+        {
+          "Charlotte, North Carolina": [
+            35.2271,
+            -80.8431
+          ]
+        }
+      ],
+      "workFields": [
+        "Aerospace",
+        "Building Technologies",
+        "Performance Materials"
+      ]
+    },
+    "PH&N Institutional": {
+      "description": "Investment management firm providing institutional investors with customized investment solutions across various asset classes.",
+      "links": {
+        "website": "https://institutional.phn.com",
+        "linkedin": "https://www.linkedin.com/company/phillips-hager-&-north-investment-management/"
+      },
+      "locations": [
+        {
+          "Vancouver, British Columbia": [
+            49.2827,
+            -123.1207
+          ]
+        }
+      ],
+      "workFields": [
+        "Investment Management",
+        "Institutional Investing",
+        "Asset Management"
+      ]
+    },
+    "PwC Canada": {
+      "description": "Canadian member firm of PricewaterhouseCoopers, providing professional services in audit, tax, consulting, and deals.",
+      "links": {
+        "website": "https://www.pwc.com/ca",
+        "linkedin": "https://www.linkedin.com/company/pwc-canada/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Professional Services",
+        "Audit",
+        "Consulting"
+      ]
+    },
+    "GE Renewable Energy": {
+      "description": "Leading provider of renewable energy solutions, offering wind, hydro, and solar power generation technologies.",
+      "links": {
+        "website": "https://www.ge.com/renewableenergy",
+        "linkedin": "https://www.linkedin.com/company/ge-renewable-energy/"
+      },
+      "locations": [
+        {
+          "Cambridge, Massachusetts": [
+            42.3736,
+            -71.1097
+          ]
+        }
+      ],
+      "workFields": [
+        "Energy",
+        "Renewable Energy",
+        "Power Generation"
+      ]
+    },
+    "BMO Financial Group": {
+      "description": "Canadian multinational financial services company, offering a range of personal and commercial banking, wealth management, and investment services.",
+      "links": {
+        "website": "https://www.bmo.com",
+        "linkedin": "https://www.linkedin.com/company/bmo-financial-group/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Banking",
+        "Financial Services",
+        "Wealth Management"
+      ]
+    },
+    "CBL Solutions": {
+      "description": "IT consulting and staffing firm providing technology solutions and talent acquisition services to various industries.",
+      "links": {
+        "website": "https://www.cblsolutions.com",
+        "linkedin": "https://www.linkedin.com/company/cbl-solutions/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Consulting",
+        "Staffing",
+        "Technology Solutions"
+      ]
+    },
+    "Ambyint": {
+      "description": "Provider of AI-powered artificial lift and production optimization solutions for the oil and gas industry.",
+      "links": {
+        "website": "https://www.ambyint.com",
+        "linkedin": "https://www.linkedin.com/company/ambyint/"
+      },
+      "locations": [
+        {
+          "Houston, Texas": [
+            29.7604,
+            -95.3698
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas Technology",
+        "Artificial Intelligence",
+        "Production Optimization"
+      ]
+    },
+    "True North Mortgage": {
+      "description": "Canadian mortgage brokerage offering competitive mortgage rates and personalized mortgage solutions.",
+      "links": {
+        "website": "https://www.truenorthmortgage.ca",
+        "linkedin": "https://www.linkedin.com/company/true-north-mortgage/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Mortgage Brokerage",
+        "Financial Services",
+        "Real Estate"
+      ]
+    },
+    "ALLY Energy": {
+      "description": "Workforce development company focused on economic inclusion in Energy, Engineering, and Technology.",
+      "links": {
+        "website": "https://www.allyenergy.com",
+        "linkedin": "https://www.linkedin.com/company/ally-energy/"
+      },
+      "locations": [
+        {
+          "Houston, Texas": [
+            29.7604,
+            -95.3698
+          ]
+        }
+      ],
+      "workFields": [
+        "Energy Workforce",
+        "Diversity & Inclusion",
+        "Talent Solutions"
+      ]
+    },
+    "Dynamic Risk Assessment Systems, Inc.": {
+      "description": "Provider of pipeline integrity management software and services to the energy sector.",
+      "links": {
+        "website": "https://www.dynamicrisk.net",
+        "linkedin": "https://www.linkedin.com/company/dynamic-risk/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Pipeline Integrity",
+        "Risk Assessment",
+        "Energy Software"
+      ]
+    },
+    "POD Marketing Inc.": {
+      "description": "Full-service digital marketing agency specializing in web design, SEO, and online advertising strategies.",
+      "links": {
+        "website": "https://www.podmarketing.ca",
+        "linkedin": "https://www.linkedin.com/company/pod-marketing-inc-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Digital Marketing",
+        "Web Design",
+        "SEO"
+      ]
+    },
+    "ROSEN": {
+      "description": "Global provider of cutting-edge solutions in all areas of the integrity process chain, particularly in inspection of critical industrial assets.",
+      "links": {
+        "website": "https://www.rosen-group.com",
+        "linkedin": "https://www.linkedin.com/company/rosen-group/"
+      },
+      "locations": [
+        {
+          "Stans, Switzerland": [
+            46.9590,
+            8.3827
+          ]
+        }
+      ],
+      "workFields": [
+        "Asset Integrity",
+        "Inspection Technology",
+        "Engineering Services"
+      ]
+    },
+    "Synechron": {
+      "description": "Global consulting and technology organization providing innovative solutions to the financial services industry.",
+      "links": {
+        "website": "https://www.synechron.com",
+        "linkedin": "https://www.linkedin.com/company/synechron/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Financial Services Consulting",
+        "Digital Transformation",
+        "Technology Solutions"
+      ]
+    },
+    "AFG Inc": {
+      "description": "Provides financial services, primarily focusing on property and casualty insurance, annuities, and life insurance products.",
+      "links": {
+        "website": "https://www.afginc.com",
+        "linkedin": "https://www.linkedin.com/company/american-financial-group/"
+      },
+      "locations": [
+        {
+          "Cincinnati, Ohio": [
+            39.1031,
+            -84.5120
+          ]
+        }
+      ],
+      "workFields": [
+        "Insurance",
+        "Financial Services",
+        "Annuities"
+      ]
+    },
+    "Trufla": {
+      "description": "Insurtech company providing digital solutions for insurance brokers and companies, including web development, AI-powered chatbots, and data analytics.",
+      "links": {
+        "website": "https://www.trufla.com",
+        "linkedin": "https://www.linkedin.com/company/trufla-technology/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Insurtech",
+        "Digital Solutions",
+        "Insurance Technology"
+      ]
+    },
+    "Southern Alberta Institute of Technology (SAIT)": {
+      "description": "Public polytechnic institute in Calgary, Alberta, offering degrees, diplomas and certificates in technology, trades and business.",
+      "links": {
+        "website": "https://www.sait.ca",
+        "linkedin": "https://www.linkedin.com/school/southern-alberta-institute-of-technology/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Higher Education",
+        "Technical Training",
+        "Applied Research"
+      ]
+    },
+    "TEKsystems": {
+      "description": "Provider of technology, business and talent solutions, helping companies address IT workforce needs and optimize IT initiatives.",
+      "links": {
+        "website": "https://www.teksystems.com",
+        "linkedin": "https://www.linkedin.com/company/teksystems/"
+      },
+      "locations": [
+        {
+          "Hanover, Maryland": [
+            39.1926,
+            -76.7248
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Staffing",
+        "Technology Services",
+        "Workforce Solutions"
+      ]
+    },
+    "ZayZoon": {
+      "description": "Financial technology company offering on-demand pay and financial wellness tools to employees through partnerships with payroll providers and employers.",
+      "links": {
+        "website": "https://www.zayzoon.com",
+        "linkedin": "https://www.linkedin.com/company/zayzoon/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "FinTech",
+        "Employee Benefits",
+        "Financial Wellness"
+      ]
+    },
+    "Sovereign Insurance": {
+      "description": "Canadian specialty insurance company providing property, casualty, and liability insurance solutions to businesses.",
+      "links": {
+        "website": "https://www.sovereigninsurance.ca",
+        "linkedin": "https://www.linkedin.com/company/sovereign-general-insurance-company/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Insurance",
+        "Risk Management",
+        "Specialty Insurance"
+      ]
+    },
+    "Telecon": {
+      "description": "Canadian company specializing in the building and maintenance of communications networks, including fiber optics, wireless, and cable infrastructure.",
+      "links": {
+        "website": "https://www.telecon.com",
+        "linkedin": "https://www.linkedin.com/company/telecon-group/"
+      },
+      "locations": [
+        {
+          "Montreal, Quebec": [
+            45.5017,
+            -73.5673
+          ]
+        }
+      ],
+      "workFields": [
+        "Telecommunications",
+        "Network Infrastructure",
+        "Construction"
+      ]
+    },
+    "STARS": {
+      "description": "Non-profit helicopter air ambulance organization providing time, hope and life-saving transport to critically ill and injured patients in Western Canada.",
+      "links": {
+        "website": "https://stars.ca",
+        "linkedin": "https://www.linkedin.com/company/stars-air-ambulance/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Emergency Medical Services",
+        "Aviation",
+        "Healthcare"
+      ]
+    },
+    "Alberta Investment Management Corporation (AIMCo)": {
+      "description": "One of Canada's largest and most diversified institutional investment managers, responsible for the investments of pension, endowment and government funds in Alberta.",
+      "links": {
+        "website": "https://www.aimco.ca",
+        "linkedin": "https://www.linkedin.com/company/alberta-investment-management-corporation/"
+      },
+      "locations": [
+        {
+          "Edmonton, Alberta": [
+            53.5461,
+            -113.4938
+          ]
+        }
+      ],
+      "workFields": [
+        "Investment Management",
+        "Pension Fund Management",
+        "Financial Services"
+      ]
+    },
+    "Co-operators": {
+      "description": "Canadian insurance and financial services co-operative, offering home, auto, life, group, travel, commercial and farm insurance, as well as investment products.",
+      "links": {
+        "website": "https://www.cooperators.ca",
+        "linkedin": "https://www.linkedin.com/company/co-operators/"
+      },
+      "locations": [
+        {
+          "Guelph, Ontario": [
+            43.5448,
+            -80.2482
+          ]
+        }
+      ],
+      "workFields": [
+        "Insurance",
+        "Financial Services",
+        "Cooperative Business"
+      ]
+    },
+    "AMA - Alberta Motor Association": {
+      "description": "Non-profit membership organization providing roadside assistance, insurance, travel and registry services to Albertans.",
+      "links": {
+        "website": "https://ama.ab.ca",
+        "linkedin": "https://www.linkedin.com/company/alberta-motor-association/"
+      },
+      "locations": [
+        {
+          "Edmonton, Alberta": [
+            53.5461,
+            -113.4938
+          ]
+        }
+      ],
+      "workFields": [
+        "Automotive Services",
+        "Insurance",
+        "Travel Services"
+      ]
+    },
+    "ATCO": {
+      "description": "Diversified global corporation delivering service excellence and innovative business solutions in Structures & Logistics, Utilities, Energy Infrastructure, Retail Energy, Transportation and Commercial Real Estate.",
+      "links": {
+        "website": "https://www.atco.com",
+        "linkedin": "https://www.linkedin.com/company/atco-group/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Energy",
+        "Utilities",
+        "Infrastructure"
+      ]
+    },
+    "ATCOenergy": {
+      "description": "Retail electricity and natural gas provider, offering energy plans to homes and businesses across Alberta.",
+      "links": {
+        "website": "https://www.atcoenergy.com",
+        "linkedin": "https://www.linkedin.com/company/atcoenergy/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Energy Retail",
+        "Electricity",
+        "Natural Gas"
+      ]
+    },
+    "Servus Credit Union": {
+      "description": "Alberta-based member-owned financial institution providing a full range of banking, lending, investing and advisory services.",
+      "links": {
+        "website": "https://www.servus.ca",
+        "linkedin": "https://www.linkedin.com/company/servus-credit-union/"
+      },
+      "locations": [
+        {
+          "Edmonton, Alberta": [
+            53.5461,
+            -113.4938
+          ]
+        }
+      ],
+      "workFields": [
+        "Banking",
+        "Credit Union",
+        "Financial Services"
+      ]
+    },
+    "Cornerstone Building Brands": {
+      "description": "Leading manufacturer of exterior building products for residential and commercial construction, including windows, siding, insulated metal panels, and metal roofing and wall systems.",
+      "links": {
+        "website": "https://www.cornerstonebuildingbrands.com",
+        "linkedin": "https://www.linkedin.com/company/cornerstone-building-brands/"
+      },
+      "locations": [
+        {
+          "Cary, North Carolina": [
+            35.7915,
+            -78.7811
+          ]
+        }
+      ],
+      "workFields": [
+        "Building Materials",
+        "Manufacturing",
+        "Construction Products"
+      ]
+    },
+    "Tarco": {
+      "description": "Manufacturer of roofing products and building materials, specializing in modified bitumen membranes, shingles, and waterproofing solutions.",
+      "links": {
+        "website": "https://www.tarcoroofing.com",
+        "linkedin": "https://www.linkedin.com/company/tarco/"
+      },
+      "locations": [
+        {
+          "Little Rock, Arkansas": [
+            34.7465,
+            -92.2896
+          ]
+        }
+      ],
+      "workFields": [
+        "Roofing Materials",
+        "Building Products",
+        "Manufacturing"
+      ]
+    },
+    "Bantrel Co.": {
+      "description": "Provider of engineering, procurement and construction services to the oil, gas, and chemical industries in Canada.",
+      "links": {
+        "website": "https://www.bantrel.com",
+        "linkedin": "https://www.linkedin.com/company/bantrel/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Engineering",
+        "Procurement",
+        "Construction"
+      ]
+    },
+    "Intact": {
+      "description": "Largest provider of property and casualty insurance in Canada and a leading provider of specialty insurance in North America.",
+      "links": {
+        "website": "https://www.intact.ca",
+        "linkedin": "https://www.linkedin.com/company/intact-insurance/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Insurance",
+        "Financial Services",
+        "Risk Management"
+      ]
+    },
+    "Kinaxis": {
+      "description": "Provider of cloud-based software for supply chain planning and operations, helping companies navigate complex supply chain challenges.",
+      "links": {
+        "website": "https://www.kinaxis.com",
+        "linkedin": "https://www.linkedin.com/company/kinaxis/"
+      },
+      "locations": [
+        {
+          "Ottawa, Ontario": [
+            45.4215,
+            -75.6972
+          ]
+        }
+      ],
+      "workFields": [
+        "Supply Chain Management",
+        "Software",
+        "Cloud Computing"
+      ]
+    },
+    "Teck Resources Limited": {
+      "description": "Canadian diversified resource company focused on mining and mineral development, with business units focused on steelmaking coal, copper, zinc and energy.",
+      "links": {
+        "website": "https://www.teck.com",
+        "linkedin": "https://www.linkedin.com/company/teck-resources-limited/"
+      },
+      "locations": [
+        {
+          "Vancouver, British Columbia": [
+            49.2827,
+            -123.1207
+          ]
+        }
+      ],
+      "workFields": [
+        "Mining",
+        "Natural Resources",
+        "Metals"
+      ]
+    },
+    "J&M Group": {
+      "description": "Staffing and recruitment agency specializing in placing professionals in various industries including IT, engineering, and finance.",
+      "links": {
+        "website": "https://www.jmgroup.ca",
+        "linkedin": "https://www.linkedin.com/company/j-&-m-group/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Staffing",
+        "Recruitment",
+        "Human Resources"
+      ]
+    },
+    "OnX": {
+      "description": "Provider of technology solutions and services, helping organizations design, build, and manage enterprise data center solutions.",
+      "links": {
+        "website": "https://www.onx.com",
+        "linkedin": "https://www.linkedin.com/company/onx-enterprise-solutions/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Services",
+        "Cloud Solutions",
+        "Data Center Management"
+      ]
+    },
+    "Alberta Securities Commission": {
+      "description": "Regulatory agency responsible for administering the province's securities laws and regulating the capital market in Alberta.",
+      "links": {
+        "website": "https://www.albertasecurities.com",
+        "linkedin": "https://www.linkedin.com/company/alberta-securities-commission/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Financial Regulation",
+        "Securities",
+        "Investor Protection"
+      ]
+    },
+    "ClarityArc Consulting": {
+      "description": "Management consulting firm specializing in business strategy, process improvement, and technology implementation.",
+      "links": {
+        "website": "https://www.clarityarc.com",
+        "linkedin": "https://www.linkedin.com/company/clarityarc-consulting/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Management Consulting",
+        "Business Strategy",
+        "Process Improvement"
+      ]
+    },
+    "METHOD4 Engineering Inc.": {
+      "description": "Engineering consulting firm specializing in mechanical and electrical design for commercial, institutional, and industrial projects.",
+      "links": {
+        "website": "https://www.method4.ca",
+        "linkedin": "https://www.linkedin.com/company/method4-engineering-inc-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Consulting"
+      ]
+    },
+    "Mitchell Martin Inc.": {
+      "description": "Staffing and workforce solutions provider, offering IT staffing, healthcare staffing, and other professional services.",
+      "links": {
+        "website": "https://www.mitchellmartin.com",
+        "linkedin": "https://www.linkedin.com/company/mitchell-martin-inc-/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Staffing",
+        "IT Services",
+        "Healthcare Staffing"
+      ]
+    },
+    "V-Soft Consulting Group, Inc.": {
+      "description": "IT consulting and staffing firm providing technology solutions and talent acquisition services to various industries.",
+      "links": {
+        "website": "https://www.vsoftconsulting.com",
+        "linkedin": "https://www.linkedin.com/company/v-soft-consulting-group-inc-/"
+      },
+      "locations": [
+        {
+          "Louisville, Kentucky": [
+            38.2527,
+            -85.7585
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Consulting",
+        "Staffing",
+        "Technology Solutions"
+      ]
+    },
+    "Rose International": {
+      "description": "Global provider of strategic technology solutions and workforce solutions, serving Fortune 500 companies and government agencies.",
+      "links": {
+        "website": "https://www.roseint.com",
+        "linkedin": "https://www.linkedin.com/company/rose-international/"
+      },
+      "locations": [
+        {
+          "St. Louis, Missouri": [
+            38.6270,
+            -90.1994
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Services",
+        "Workforce Solutions",
+        "Consulting"
+      ]
+    },
+    "MetroStar": {
+      "description": "Digital solutions provider specializing in emerging technologies, cybersecurity, and strategic IT consulting for government and commercial clients.",
+      "links": {
+        "website": "https://www.metrostar.com",
+        "linkedin": "https://www.linkedin.com/company/metrostar-systems/"
+      },
+      "locations": [
+        {
+          "Reston, Virginia": [
+            38.9586,
+            -77.3570
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Consulting",
+        "Cybersecurity",
+        "Digital Solutions"
+      ]
+    },
+    "InSync Systems": {
+      "description": "IT services and solutions provider specializing in enterprise resource planning (ERP) implementation and support.",
+      "links": {
+        "website": "https://www.insyncsystems.com",
+        "linkedin": "https://www.linkedin.com/company/insync-systems/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "ERP Solutions",
+        "IT Services",
+        "Software Implementation"
+      ]
+    },
+    "Parkland Corporation": {
+      "description": "Independent supplier and marketer of fuel and petroleum products and a leading convenience store operator in Canada, the United States, and the Caribbean.",
+      "links": {
+        "website": "https://www.parkland.ca",
+        "linkedin": "https://www.linkedin.com/company/parkland-corporation/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Fuel Distribution",
+        "Convenience Stores",
+        "Energy"
+      ]
+    },
+    "TELUS Digital": {
+      "description": "Digital innovation arm of TELUS, focused on creating digital-first customer experiences and transforming TELUS' core business.",
+      "links": {
+        "website": "https://www.telus.com/en/digital",
+        "linkedin": "https://www.linkedin.com/company/telus-digital/"
+      },
+      "locations": [
+        {
+          "Vancouver, British Columbia": [
+            49.2827,
+            -123.1207
+          ]
+        }
+      ],
+      "workFields": [
+        "Digital Transformation",
+        "Customer Experience",
+        "Technology Innovation"
+      ]
+    },
+    "ATB Financial": {
+      "description": "Alberta-based financial institution and Crown corporation, providing a full range of banking services to individuals, businesses, and agricultural clients.",
+      "links": {
+        "website": "https://www.atb.com",
+        "linkedin": "https://www.linkedin.com/company/atb-financial/"
+      },
+      "locations": [
+        {
+          "Edmonton, Alberta": [
+            53.5461,
+            -113.4938
+          ]
+        }
+      ],
+      "workFields": [
+        "Banking",
+        "Financial Services",
+        "Wealth Management"
+      ]
+    },
+    "Infosys": {
+      "description": "Global leader in next-generation digital services and consulting, enabling clients in 46 countries to navigate their digital transformation.",
+      "links": {
+        "website": "https://www.infosys.com",
+        "linkedin": "https://www.linkedin.com/company/infosys/"
+      },
+      "locations": [
+        {
+          "Bengaluru, Karnataka": [
+            12.9716,
+            77.5946
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Services",
+        "Consulting",
+        "Digital Transformation"
+      ]
+    },
+    "Metlen Energy & Metals": {
+      "description": "Specializes in energy and metals trading, providing risk management and trading solutions in global commodity markets.",
+      "links": {
+        "website": "https://www.metlenenergy.com",
+        "linkedin": "https://www.linkedin.com/company/metlen-energy-&-metals/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Energy Trading",
+        "Metals Trading",
+        "Risk Management"
+      ]
+    },
+    "TC Energy": {
+      "description": "Major North American energy company, developing and operating energy infrastructure in Canada, the United States, and Mexico.",
+      "links": {
+        "website": "https://www.tcenergy.com",
+        "linkedin": "https://www.linkedin.com/company/tc-energy/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Energy",
+        "Pipeline Operations",
+        "Natural Gas"
+      ]
+    },
+    "Vista Projects": {
+      "description": "Engineering, procurement, and project management firm specializing in oil and gas, petrochemical, and industrial projects.",
+      "links": {
+        "website": "https://www.vistaprojects.com",
+        "linkedin": "https://www.linkedin.com/company/vista-projects-limited/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Engineering",
+        "Project Management",
+        "Oil & Gas"
+      ]
+    },
+    "Applied Systems Canada": {
+      "description": "Provider of cloud-based software that powers the business of insurance, enabling agencies, brokerages, and insurers to better manage their businesses.",
+      "links": {
+        "website": "https://www.appliedsystems.ca",
+        "linkedin": "https://www.linkedin.com/company/applied-systems/"
+      },
+      "locations": [
+        {
+          "Mississauga, Ontario": [
+            43.5890,
+            -79.6441
+          ]
+        }
+      ],
+      "workFields": [
+        "Insurance Technology",
+        "Cloud Software",
+        "Business Management"
+      ]
+    },
+    "Cisco": {
+      "description": "Worldwide leader in IT, networking, and cybersecurity solutions, helping companies of all sizes transform how people connect, communicate, and collaborate.",
+      "links": {
+        "website": "https://www.cisco.com",
+        "linkedin": "https://www.linkedin.com/company/cisco/"
+      },
+      "locations": [
+        {
+          "San Jose, California": [
+            37.3382,
+            -121.8863
+          ]
+        }
+      ],
+      "workFields": [
+        "Networking",
+        "Cybersecurity",
+        "IT Infrastructure"
+      ]
+    },
+    "Trafigura": {
+      "description": "One of the world's leading independent commodity trading and logistics houses, specializing in oil, minerals, and metals.",
+      "links": {
+        "website": "https://www.trafigura.com",
+        "linkedin": "https://www.linkedin.com/company/trafigura/"
+      },
+      "locations": [
+        {
+          "Singapore": [
+            1.3521,
+            103.8198
+          ]
+        }
+      ],
+      "workFields": [
+        "Commodity Trading",
+        "Logistics",
+        "Natural Resources"
+      ]
+    },
+    "KPMG Canada": {
+      "description": "One of the Big Four accounting organizations, providing audit, tax, and advisory services to Canadian businesses and organizations.",
+      "links": {
+        "website": "https://home.kpmg/ca/en/home.html",
+        "linkedin": "https://www.linkedin.com/company/kpmg-canada/"
+      },
+      "locations": [
+        {
+          "Toronto, Ontario": [
+            43.6532,
+            -79.3832
+          ]
+        }
+      ],
+      "workFields": [
+        "Accounting",
+        "Auditing",
+        "Advisory Services"
+      ]
+    },
+    "WSP in Canada": {
+      "description": "One of the world's leading professional services firms, providing engineering and design services to clients in various sectors including Transportation & Infrastructure, Property & Buildings, Environment, and Energy.",
+      "links": {
+        "website": "https://www.wsp.com/en-CA",
+        "linkedin": "https://www.linkedin.com/company/wsp-in-canada/"
+      },
+      "locations": [
+        {
+          "Montreal, Quebec": [
+            45.5017,
+            -73.5673
+          ]
+        }
+      ],
+      "workFields": [
+        "Engineering",
+        "Design",
+        "Consulting"
+      ]
+    },
+    "EPM Scientific": {
+      "description": "Specialist recruitment agency focused on connecting talented professionals with opportunities in the Life Sciences sector.",
+      "links": {
+        "website": "https://www.epmscientific.com",
+        "linkedin": "https://www.linkedin.com/company/epm-scientific/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Recruitment",
+        "Life Sciences",
+        "Talent Acquisition"
+      ]
+    },
+    "Bloom Nutrition": {
+      "description": "Health and wellness company specializing in nutritional supplements and health foods.",
+      "links": {
+        "website": "https://www.bloomnu.com",
+        "linkedin": "https://www.linkedin.com/company/bloom-nutrition/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Nutrition",
+        "Health Supplements",
+        "Wellness"
+      ]
+    },
+    "SPECTRAFORCE": {
+      "description": "Global staffing and consulting firm providing workforce solutions across various industries including IT, Engineering, and Healthcare.",
+      "links": {
+        "website": "https://www.spectraforce.com",
+        "linkedin": "https://www.linkedin.com/company/spectraforce-technologies-inc-/"
+      },
+      "locations": [
+        {
+          "Raleigh, North Carolina": [
+            35.7796,
+            -78.6382
+          ]
+        }
+      ],
+      "workFields": [
+        "Staffing",
+        "Consulting",
+        "Workforce Solutions"
+      ]
+    },
+    "Microsoft": {
+      "description": "Multinational technology corporation that develops, manufactures, and sells computer software, consumer electronics, and personal computers.",
+      "links": {
+        "website": "https://www.microsoft.com",
+        "linkedin": "https://www.linkedin.com/company/microsoft/"
+      },
+      "locations": [
+        {
+          "Redmond, Washington": [
+            47.6740,
+            -122.1215
+          ]
+        }
+      ],
+      "workFields": [
+        "Software Development",
+        "Cloud Computing",
+        "Artificial Intelligence"
+      ]
+    },
+    "Communica": {
+      "description": "Public engagement and communications firm specializing in stakeholder and Indigenous relations for resource development and infrastructure projects.",
+      "links": {
+        "website": "https://www.communica.ca",
+        "linkedin": "https://www.linkedin.com/company/communica-public-affairs-inc-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Public Relations",
+        "Stakeholder Engagement",
+        "Indigenous Relations"
+      ]
+    },
+    "Prolium Industries Ltd, a Berkshire Hathaway Company": {
+      "description": "Manufacturer and distributor of industrial products, specializing in fluid handling and control equipment.",
+      "links": {
+        "website": "https://www.prolium.com",
+        "linkedin": "https://www.linkedin.com/company/prolium-industries-ltd-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Manufacturing",
+        "Industrial Equipment",
+        "Fluid Handling"
+      ]
+    },
+    "Precision Drilling": {
+      "description": "One of North America's largest drilling rig contractors, providing onshore drilling, well servicing, and strategic support services to the oil and natural gas industry.",
+      "links": {
+        "website": "https://www.precisiondrilling.com",
+        "linkedin": "https://www.linkedin.com/company/precision-drilling/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Oil & Gas",
+        "Drilling Services",
+        "Well Servicing"
+      ]
+    },
+    "Clarion Hotel & Convention Center": {
+      "description": "Part of the Choice Hotels chain, offering accommodations and convention facilities for business and leisure travelers.",
+      "links": {
+        "website": "https://www.choicehotels.com/clarion",
+        "linkedin": "https://www.linkedin.com/company/choice-hotels-international/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Hospitality",
+        "Convention Services",
+        "Accommodation"
+      ]
+    },
+    "Capgemini": {
+      "description": "Global leader in consulting, technology services and digital transformation, helping organizations realize their business ambitions through an array of services from strategy to operations.",
+      "links": {
+        "website": "https://www.capgemini.com",
+        "linkedin": "https://www.linkedin.com/company/capgemini/"
+      },
+      "locations": [
+        {
+          "Paris, France": [
+            48.8566,
+            2.3522
+          ]
+        }
+      ],
+      "workFields": [
+        "Consulting",
+        "Technology Services",
+        "Digital Transformation"
+      ]
+    },
+    "Software Technology Inc.": {
+      "description": "Provider of custom software development and IT consulting services, specializing in enterprise solutions and mobile applications.",
+      "links": {
+        "website": "https://www.softwaretechnology.com",
+        "linkedin": "https://www.linkedin.com/company/software-technology-inc-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Software Development",
+        "IT Consulting",
+        "Enterprise Solutions"
+      ]
+    },
+    "Hopper": {
+      "description": "Travel technology company that uses big data to predict and analyze airfare and hotel prices, offering a mobile app for booking flights and hotels.",
+      "links": {
+        "website": "https://www.hopper.com",
+        "linkedin": "https://www.linkedin.com/company/hopper-travel/"
+      },
+      "locations": [
+        {
+          "Montreal, Quebec": [
+            45.5017,
+            -73.5673
+          ]
+        }
+      ],
+      "workFields": [
+        "Travel Technology",
+        "Mobile Apps",
+        "Data Analytics"
+      ]
+    },
+    "Xsolla": {
+      "description": "Global video game commerce company, providing game developers with advanced tools and services for distribution, marketing, and monetization.",
+      "links": {
+        "website": "https://xsolla.com",
+        "linkedin": "https://www.linkedin.com/company/xsolla/"
+      },
+      "locations": [
+        {
+          "Los Angeles, California": [
+            34.0522,
+            -118.2437
+          ]
+        }
+      ],
+      "workFields": [
+        "Gaming Industry",
+        "E-commerce",
+        "Payment Processing"
+      ]
+    },
+    "Ryan Consulting Group, LLC": {
+      "description": "Professional services firm providing strategic consulting, technology solutions, and managed services to various industries.",
+      "links": {
+        "website": "https://www.ryancg.com",
+        "linkedin": "https://www.linkedin.com/company/ryan-consulting-group-llc/"
+      },
+      "locations": [
+        {
+          "Indianapolis, Indiana": [
+            39.7684,
+            -86.1581
+          ]
+        }
+      ],
+      "workFields": [
+        "Consulting",
+        "Technology Solutions",
+        "Managed Services"
+      ]
+    },
+    "The Bluestone Group": {
+      "description": "Real estate private equity firm specializing in debt and equity investments in commercial and residential properties.",
+      "links": {
+        "website": "https://www.bluestonegrp.com",
+        "linkedin": "https://www.linkedin.com/company/the-bluestone-group/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Real Estate",
+        "Private Equity",
+        "Investment Management"
+      ]
+    },
+    "Compunnel Inc.": {
+      "description": "Global IT staffing and solutions company providing technology talent and services to Fortune 500 companies and government agencies.",
+      "links": {
+        "website": "https://www.compunnel.com",
+        "linkedin": "https://www.linkedin.com/company/compunnel-software-group/"
+      },
+      "locations": [
+        {
+          "Plainsboro, New Jersey": [
+            40.3340,
+            -74.5996
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Staffing",
+        "Technology Solutions",
+        "Consulting"
+      ]
+    },
+    "e&e IT Consulting Services, Inc.": {
+      "description": "Provider of IT consulting and staffing services, specializing in custom software development, system integration, and technology support.",
+      "links": {
+        "website": "https://www.eandeinc.com",
+        "linkedin": "https://www.linkedin.com/company/e&e-it-consulting-services-inc-/"
+      },
+      "locations": [
+        {
+          "Edison, New Jersey": [
+            40.5187,
+            -74.4121
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Consulting",
+        "Software Development",
+        "Staffing"
+      ]
+    },
+    "HireTalent - Diversity Staffing & Recruiting Firm": {
+      "description": "Staffing and recruiting firm focused on promoting diversity and inclusion in the workplace, specializing in placing diverse talent across various industries.",
+      "links": {
+        "website": "https://www.hiretalent.com",
+        "linkedin": "https://www.linkedin.com/company/hiretalent/"
+      },
+      "locations": [
+        {
+          "New York City, New York": [
+            40.7128,
+            -74.0060
+          ]
+        }
+      ],
+      "workFields": [
+        "Diversity Recruiting",
+        "Staffing",
+        "Talent Acquisition"
+      ]
+    },
+    "Equinox Engineering Ltd.": {
+      "description": "Engineering consulting firm specializing in oil and gas facilities, pipelines, and process engineering for the energy industry.",
+      "links": {
+        "website": "https://www.equinox-eng.com",
+        "linkedin": "https://www.linkedin.com/company/equinox-engineering-ltd-/"
+      },
+      "locations": [
+        {
+          "Calgary, Alberta": [
+            51.0447,
+            -114.0719
+          ]
+        }
+      ],
+      "workFields": [
+        "Engineering",
+        "Oil & Gas",
+        "Process Design"
+      ]
+    },
+    "Instacart": {
+      "description": "Technology company that provides same-day grocery delivery and pick-up services in the U.S. and Canada through its website and mobile app.",
+      "links": {
+        "website": "https://www.instacart.com",
+        "linkedin": "https://www.linkedin.com/company/instacart/"
+      },
+      "locations": [
+        {
+          "San Francisco, California": [
+            37.7749,
+            -122.4194
+          ]
+        }
+      ],
+      "workFields": [
+        "E-commerce",
+        "Grocery Delivery",
+        "Technology"
+      ]
+    },
+    "Lineage": {
+      "description": "Leading and innovative provider of temperature-controlled logistics solutions, specializing in warehousing and transportation services for perishable products.",
+      "links": {
+        "website": "https://www.lineagelogistics.com",
+        "linkedin": "https://www.linkedin.com/company/lineage-logistics/"
+      },
+      "locations": [
+        {
+          "Novi, Michigan": [
+            42.4806,
+            -83.4755
+          ]
+        }
+      ],
+      "workFields": [
+        "Logistics",
+        "Cold Storage",
+        "Supply Chain Management"
+      ]
+    },
+    "Ring": {
+      "description": "Home security and smart home company, best known for its video doorbell and related security products.",
+      "links": {
+        "website": "https://ring.com",
+        "linkedin": "https://www.linkedin.com/company/ring/"
+      },
+      "locations": [
+        {
+          "Santa Monica, California": [
+            34.0195,
+            -118.4912
+          ]
+        }
+      ],
+      "workFields": [
+        "Home Security",
+        "Smart Home Technology",
+        "IoT"
+      ]
+    },
+    "Link Solutions, Inc.": {
+      "description": "Provider of IT and engineering services to government and commercial clients, specializing in cybersecurity, software development, and systems engineering.",
+      "links": {
+        "website": "https://www.linksolutions-inc.com",
+        "linkedin": "https://www.linkedin.com/company/link-solutions-inc-/"
+      },
+      "locations": [
+        {
+          "Reston, Virginia": [
+            38.9586,
+            -77.3570
+          ]
+        }
+      ],
+      "workFields": [
+        "IT Services",
+        "Cybersecurity",
+        "Government Contracting"
       ]
     }
   }
